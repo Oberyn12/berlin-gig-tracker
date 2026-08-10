@@ -1,0 +1,81 @@
+name: Scrape Berlin Events
+
+on:
+  schedule:
+    # Every Sunday at 08:00 Berlin time (07:00 UTC in CEST, 06:00 UTC in CET)
+    # Using 07:00 UTC — works for CEST (summer). Adjust to 06:00 in winter if needed.
+    - cron: '0 7 * * 0'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI any time
+
+permissions:
+  contents: write   # Needed to commit updated events.json
+
+jobs:
+  scrape-and-notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run all venue scrapers
+        run: python scraper/main.py
+        # Exits 0 if any events found, 1 if all scrapers failed
+
+      - name: Show event count
+        run: |
+          COUNT=$(python -c "import json; print(len(json.load(open('web/events.json'))))")
+          echo "✅ $COUNT total events written to events.json"
+
+      - name: Commit updated events.json
+        run: |
+          git config user.email "gig-bot@users.noreply.github.com"
+          git config user.name "Gig Bot"
+          git add web/events.json
+          # Only commit if there are actual changes
+          git diff --staged --quiet \
+            && echo "No changes to events.json — skipping commit" \
+            || git commit -m "🎵 Weekly event update $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Count this-week events
+        id: count
+        run: |
+          NEXT_WEEK=$(date -u -d '+7 days' +%Y-%m-%d 2>/dev/null || date -u -v+7d +%Y-%m-%d)
+          TODAY=$(date -u +%Y-%m-%d)
+          COUNT=$(python -c "
+          import json
+          events = json.load(open('web/events.json'))
+          week = [e for e in events if '$TODAY' <= e['date'] <= '$NEXT_WEEK']
+          print(len(week))
+          ")
+          echo "week_count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Send ntfy push notification
+        if: env.NTFY_TOPIC != ''
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          PAGES_URL: ${{ vars.PAGES_URL }}
+          WEEK_COUNT: ${{ steps.count.outputs.week_count }}
+        run: |
+          BODY="🎵 ${WEEK_COUNT} events this week at your Berlin venues. Tap to plan."
+          CLICK_URL="${PAGES_URL:-https://your-github-username.github.io/berlin-gig-tracker/}"
+          curl -s \
+            -H "Title: Berlin Gigs This Week" \
+            -H "Tags: musical_note" \
+            -H "Priority: default" \
+            -H "Click: ${CLICK_URL}" \
+            -d "${BODY}" \
+            "https://ntfy.sh/${NTFY_TOPIC}"
+          echo "📲 Push notification sent to ntfy topic: ${NTFY_TOPIC}"

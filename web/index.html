@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0a0a0a">
+  <meta name="description" content="Weekly event digest for your favourite Berlin music venues">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Berlin Gigs</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icon-192.png">
+
+  <style>
+    /* ── Reset + tokens ─────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:         #0a0a0a;
+      --surface:    #141414;
+      --surface2:   #1e1e1e;
+      --border:     #2a2a2a;
+      --text:       #f0f0f0;
+      --text-muted: #888;
+      --accent:     #e2e2e2;
+      --radius:     12px;
+      --safe-top:   env(safe-area-inset-top, 0px);
+      --safe-bot:   env(safe-area-inset-bottom, 0px);
+    }
+
+    html, body {
+      height: 100%;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Layout ─────────────────────────────────────────── */
+    .app {
+      display: flex;
+      flex-direction: column;
+      height: 100dvh;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* ── Header ─────────────────────────────────────────── */
+    header {
+      padding: calc(16px + var(--safe-top)) 20px 0;
+      background: var(--bg);
+      flex-shrink: 0;
+    }
+
+    .wordmark {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: var(--text);
+      margin-bottom: 14px;
+    }
+
+    .wordmark span { color: var(--text-muted); font-weight: 400; }
+
+    /* ── Tabs ───────────────────────────────────────────── */
+    .tabs {
+      display: flex;
+      gap: 4px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0;
+    }
+
+    .tab-btn {
+      flex: 1;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 14px;
+      font-weight: 500;
+      padding: 10px 4px 12px;
+      cursor: pointer;
+      position: relative;
+      transition: color 0.15s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+    }
+
+    .tab-btn.active {
+      color: var(--text);
+    }
+
+    .tab-btn.active::after {
+      content: '';
+      position: absolute;
+      bottom: -1px;
+      left: 0; right: 0;
+      height: 2px;
+      background: var(--text);
+      border-radius: 2px 2px 0 0;
+    }
+
+    .badge {
+      background: #3b82f6;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 700;
+      min-width: 18px;
+      height: 18px;
+      padding: 0 5px;
+      border-radius: 99px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* ── Filter pills ───────────────────────────────────── */
+    #filter-bar {
+      display: flex;
+      gap: 8px;
+      padding: 12px 20px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      flex-shrink: 0;
+    }
+
+    #filter-bar::-webkit-scrollbar { display: none; }
+    #filter-bar[hidden] { display: none !important; }
+
+    .filter-pill {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 99px;
+      color: var(--text-muted);
+      font-size: 13px;
+      font-weight: 500;
+      padding: 5px 14px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+      flex-shrink: 0;
+    }
+
+    .filter-pill.active {
+      background: var(--text);
+      color: var(--bg);
+      border-color: var(--text);
+    }
+
+    /* ── Scroll area ────────────────────────────────────── */
+    .scroll-area {
+      flex: 1;
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      padding: 0 16px calc(16px + var(--safe-bot));
+    }
+
+    /* ── Status bar ─────────────────────────────────────── */
+    #load-status {
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 14px;
+      padding: 24px 0;
+    }
+
+    #load-status.error { color: #fca5a5; }
+
+    /* ── Date group ─────────────────────────────────────── */
+    .date-group { margin-bottom: 8px; }
+
+    .date-header {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      padding: 16px 4px 8px;
+    }
+
+    /* ── Event card ─────────────────────────────────────── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      margin-bottom: 10px;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+      display: block;
+    }
+
+    .card-body { padding: 14px; }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+
+    .chip {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 99px;
+      flex-shrink: 0;
+    }
+
+    .venue-name {
+      font-size: 12px;
+      color: var(--text-muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .card-title {
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.3;
+      margin-bottom: 4px;
+    }
+
+    .card-date {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .price {
+      background: var(--surface2);
+      border-radius: 4px;
+      padding: 1px 6px;
+      font-size: 12px;
+      color: var(--text);
+    }
+
+    .card-desc {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 10px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .btn-tickets {
+      display: inline-block;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 14px;
+      text-decoration: none;
+      transition: background 0.15s;
+    }
+
+    .btn-tickets:active { background: var(--border); }
+
+    /* ── Discover card ──────────────────────────────────── */
+    .discover-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      margin-bottom: 10px;
+    }
+
+    /* ── Empty state ────────────────────────────────────── */
+    #empty-state {
+      text-align: center;
+      padding: 48px 24px;
+      color: var(--text-muted);
+    }
+
+    #empty-state p { margin-top: 8px; font-size: 14px; }
+  </style>
+</head>
+<body>
+
+<div class="app">
+  <header>
+    <div class="wordmark">Berlin Gigs <span>/ your venues</span></div>
+
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="week">
+        This week
+        <span class="badge" id="week-count" hidden></span>
+      </button>
+      <button class="tab-btn" data-tab="upcoming">Upcoming</button>
+      <button class="tab-btn" data-tab="discover">Discover</button>
+    </nav>
+  </header>
+
+  <div id="filter-bar" role="group" aria-label="Filter by genre">
+    <button class="filter-pill active" data-tag="all">All</button>
+    <button class="filter-pill" data-tag="jazz">Jazz</button>
+    <button class="filter-pill" data-tag="electronic">Electronic</button>
+    <button class="filter-pill" data-tag="live">Live</button>
+    <button class="filter-pill" data-tag="bar">Bar</button>
+  </div>
+
+  <main class="scroll-area" role="main">
+    <p id="load-status" aria-live="polite">Loading events…</p>
+    <div id="event-list" aria-label="Event list"></div>
+    <div id="empty-state" hidden>
+      <div style="font-size:36px">🎵</div>
+      <p>No events found for this filter.<br>Try "All" or check the Upcoming tab.</p>
+    </div>
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,17 +1,19 @@
 """
-Neue Zukunft — Events venue, Neukölln.
+Neue Zukunft — Events venue, Friedrichshain (Alt-Stralau 68).
+Site: https://neue-zukunft.org/konzerte.html
 
-STATUS: Domain for sale (August 2026).
-Both neue-zukunft.de and neuezukunft.de redirect to a domain broker.
-The venue may have closed or moved to a different domain / social media presence.
+Status: NOT SCRAPED — no machine-readable event data available.
 
-Action needed:
-  Search "Neue Zukunft Berlin Neukölln" to find their current presence
-  (Instagram, Facebook, or a new domain). Update PROGRAMME_URL below
-  and implement a scraper following the bflat.py or schokoladen.py pattern.
+The venue publishes events only as:
+  1. An image-only PDF (no text layer — pdfplumber returns blank)
+  2. An Elfsight calendar widget that requires client-side JavaScript
+
+Without a headless browser, there is no way to extract structured events.
+This scraper returns an empty list (with a logged warning) so the full run
+continues unaffected. The other 9 venues still scrape normally.
+
+Follow: https://www.instagram.com/neuezukunftstralau/
 """
-from __future__ import annotations
-
 import logging
 
 log = logging.getLogger(__name__)
@@ -19,8 +21,7 @@ log = logging.getLogger(__name__)
 
 def scrape() -> list[dict]:
     log.warning(
-        "Neue Zukunft: domain for sale — venue may have closed or moved. "
-        "Search for their current web presence and update this scraper. "
-        "Returning empty."
+        "neue_zukunft: skipped — events are published as an image-only PDF and a "
+        "JavaScript-rendered widget. Open https://neue-zukunft.org/konzerte.html manually."
     )
     return []

@@ -1,34 +1,84 @@
 """
 Donau115 — Bar / events venue, Neukölln.
-Site: donau115.de (donau115.com is NXDOMAIN)
+Site: donau115.de (JS-rendered)
 
-NOTE: The site is JS-rendered. The static HTML only contains "Loading events…".
-GitHub Actions runs on ubuntu/debian with no Playwright, so this scraper
-currently returns empty until one of these workarounds is applied:
+Data source: PUBLIC Firebase Realtime Database REST API (no auth needed).
+  GET https://shifts-a77a1-default-rtdb.europe-west1.firebasedatabase.app/events.json
 
-Option A (recommended): Inspect the real browser's Network tab on donau115.de,
-  find the XHR/fetch call that loads events, and add an httpx call to that
-  endpoint directly here. Update EVENTS_API_URL below.
+JSON record structure:
+  {
+    "bandName": "BORT!",
+    "date": "2026-04-24",            # ISO YYYY-MM-DD
+    "description": "she has risen!",
+    "facebook": "https://fb.com/events/...",
+    "live": true,
+    "images": ["http://...jpg"]
+  }
 
-Option B: Add Playwright to the GitHub Actions workflow. This works but is
-  slower (adds ~2 min to the run).
-
-Until resolved, this venue will be absent from the weekly digest.
-The orchestrator logs a warning but continues with all other venues.
+No time or price available.
 """
 from __future__ import annotations
 
-import logging
+from datetime import datetime, date, timezone
 
-log = logging.getLogger(__name__)
+import httpx
 
-EVENTS_API_URL = None  # TODO: discover via browser DevTools and fill in
+FIREBASE_URL = (
+    "https://shifts-a77a1-default-rtdb.europe-west1.firebasedatabase.app/events.json"
+)
+VENUE_URL = "https://donau115.de/"
 
 
 def scrape() -> list[dict]:
-    log.warning(
-        "Donau115: scraper not yet implemented. "
-        "The site is JS-rendered and requires a known API endpoint. "
-        "See the comment in scraper/venues/donau115.py for instructions."
-    )
-    return []
+    resp = httpx.get(FIREBASE_URL, timeout=20)
+    resp.raise_for_status()
+    data = resp.json()
+
+    if not isinstance(data, dict):
+        raise RuntimeError(f"Donau115: unexpected Firebase response type: {type(data)}")
+
+    today = date.today().isoformat()
+    scraped_at = datetime.now(timezone.utc).isoformat()
+    events = []
+
+    for record in data.values():
+        if not isinstance(record, dict):
+            continue
+
+        event_date = record.get("date", "")
+        if not event_date or event_date < today:
+            continue  # skip past events
+
+        title = record.get("bandName", "").strip()
+        if not title:
+            continue
+
+        # Use Facebook event URL if available, else fallback to venue page
+        url = record.get("facebook") or VENUE_URL
+
+        # Image: skip base64 (large), only use http/https URLs
+        images = record.get("images") or []
+        image_url = None
+        for img in images:
+            if isinstance(img, str) and img.startswith("http"):
+                image_url = img
+                break
+
+        events.append({
+            "venue": "Donau115",
+            "venue_slug": "donau115",
+            "venue_tag": "bar",
+            "date": event_date,
+            "time": None,
+            "title": title,
+            "description": record.get("description") or None,
+            "url": url,
+            "image_url": image_url,
+            "price": None,
+            "scraped_at": scraped_at,
+        })
+
+    if not events:
+        raise RuntimeError("Donau115: no upcoming events found in Firebase")
+
+    return events

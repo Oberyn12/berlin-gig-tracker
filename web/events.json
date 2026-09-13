@@ -3,396 +3,6 @@
     "venue": "ZigZag",
     "venue_slug": "zigzag",
     "venue_tag": "jazz",
-    "date": "2026-09-05",
-    "time": null,
-    "title": "Django Reinhardt Orchestra featuring Aurore Voilqué",
-    "description": "(Gypsy Jazz / Hot Jazz)DasDjango Reinhardt Orchestrabringt die Energie desGypsy Jazz ins kraftvolle Bigband-Format– unter der musikalischen Leitung vonFrancisco Batista. Als Special Guest trifft die gefeierte französische JazzgeigerinAurore Voilquéauf das Ensemble und verbindet virtuosen Swing mit französischer Jazztradition.",
-    "url": "https://www.zigzag-jazzclub.berlin/program-mai/hotcluborchestramar26-x9sza-82fep",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
-  },
-  {
-    "venue": "Paloma Bar",
-    "venue_slug": "paloma",
-    "venue_tag": "electronic",
-    "date": "2026-09-06",
-    "time": "12:00",
-    "title": "VINYL MARKET (DAYTIME)",
-    "description": null,
-    "url": "https://palomabar.de/programm.php",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
-  },
-  {
-    "venue": "Paloma Bar",
-    "venue_slug": "paloma",
-    "venue_tag": "electronic",
-    "date": "2026-09-06",
-    "time": "17:00",
-    "title": "SCHIMMER RECORDS",
-    "description": null,
-    "url": "https://palomabar.de/programm.php",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2026-09-06",
-    "time": "21:00",
-    "title": "Jascha Briand Quartet",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Donau115",
-    "venue_slug": "donau115",
-    "venue_tag": "bar",
-    "date": "2026-09-06",
-    "time": null,
-    "title": "L CON and Foundling",
-    "description": "L CON is the ever-evolving project of Lisa Conway - a Swiss-Canadian sonic adventurer, songwriter, composer, researcher, recordist, and mixer based in Montréal. Her work is often minimalist, and blends analog synthesizers, tape machines, and electronics with acoustic instruments. Lisa is an alumni of the final Red Bull Music Academy (Berlin 2018), with recent album releases on Toronto labels Halocline Trance and Idée Fixe. She has received press from publications like Musicworks (cover fall 2025), The Fader, the CBC, BOMB Magazine, Exclaim, and Earmilk, and has collaborated on works presented at TIFF, the D'Haus (Dusseldorf), MaerzMusik (Berlin), The Harbourfront Centre, Hot Docs, and the Inside Out Festival. A graduate of the MA in Sonic Arts from Queen’s University Belfast, she is currently pursuing a SSHRC-funded Individualized PhD in Fine Arts (sound studies) at Concordia University.\n\nFoundling is the project of Canadian-born, Berlin-based composer, harpist, and vocalist Erin\nLang, and drummer percussionist Constantine Karlis (NZ), and hosts many collaborations, \npresenting immersive live performances that move fluidly between composition and improvisation. \nCentred on their recent album Artemisia, (Shadow World Records UK) Foundling’s \ncurrent concerts unfold through harp, voice, and percussion in slowly evolving forms,\nwhere structured motifs dissolve into open, intuitive passages with voice and spoken word, \ndrawing from ambient, experimental new age, and psychedelic folk traditions. \nFoundling’s live work offers intimate, emotionally resonant performances that delicately \nexplore more mystical depths. Lang has toured extensively across Europe and North America,\nincluding performances at a very wide range of venues including the Berlin and Paris Philharmonies, \nLe Grand Rex and Le Trianon in Paris all the way to alternative arts and experimental DIY spaces. For Fans of Harold Budd, Grouper, Nala Sinephro, Midori Takada, and Laraaji.",
-    "url": "https://www.facebook.com/LCONofficial/",
-    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1784563204/ghbflizm25c5p45xxvmf.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
-  },
-  {
-    "venue": "Schokoladen",
-    "venue_slug": "schokoladen",
-    "venue_tag": "live",
-    "date": "2026-09-07",
-    "time": "20:00",
-    "title": "1-800-Mikey (lofi-pop garage-punk, aus) + DBR (post-punk, bln)",
-    "description": null,
-    "url": "https://vvk.link/4gzo8r4",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
-  },
-  {
-    "venue": "A-trane",
-    "venue_slug": "atrane",
-    "venue_tag": "jazz",
-    "date": "2026-09-07",
-    "time": "20:30",
-    "title": "A-TRANE PRÄSENTIERT: ANDREAS SCHMIDT & FRIENDS HEUTE MIT:",
-    "description": null,
-    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-162/",
-    "image_url": null,
-    "price": "Free",
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
-  },
-  {
-    "venue": "Schokoladen",
-    "venue_slug": "schokoladen",
-    "venue_tag": "live",
-    "date": "2026-09-08",
-    "time": "20:00",
-    "title": "Geography of the Moon (diy post-punk psych-wave duo) + Send Me Love Letters (indie-rock, fr)",
-    "description": null,
-    "url": "https://vvk.link/4ha7m5s",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
-  },
-  {
-    "venue": "A-trane",
-    "venue_slug": "atrane",
-    "venue_tag": "jazz",
-    "date": "2026-09-08",
-    "time": "20:30",
-    "title": "A-TRANE PRÄSENTIERT DAY1: CHRIS BENNETT «ONCE UPON A TIME» SPECIAL GUEST: RICK ROSS FEAT: ERIC UNSWORTH-HEINRICH KÖBBERLING",
-    "description": null,
-    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day1chris-bennettonce-upon-a-timespecial-guest-rick-rossfeat-eric-unsworth-heinrich-koebberling/",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2026-09-08",
-    "time": "21:00",
-    "title": "“Roots and Things”",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "ZigZag",
-    "venue_slug": "zigzag",
-    "venue_tag": "jazz",
-    "date": "2026-09-08",
-    "time": null,
-    "title": "THE ZIG ZAG JAZZED UP JAM SESSION",
-    "description": "(Jazz / Funk / Groove / Swing)Durchgehend Live Musik genießen. Ein spannender Abend, an dem viele bekannte und weniger bekannte Musiker zusammen musizieren! Hippest Session in town!",
-    "url": "https://www.zigzag-jazzclub.berlin/program-mai/bwnarwjfpss3x6p-c38nm-ntfs4-hcxx7-95y6w-l9w8t",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
-  },
-  {
-    "venue": "Donau115",
-    "venue_slug": "donau115",
-    "venue_tag": "bar",
-    "date": "2026-09-08",
-    "time": null,
-    "title": "Two-Song Tuesday (MUSIC STARTS 20:00)",
-    "description": "/////// TWO-SONG TUESDAY ///////\n[sign up 19:30 // start 20:00]\nCALLING ALL SONGWRITERS, COMPOSERS, INSTRUMENTALISTS, POETS, WRITERS, STORYTELLERS, SYNTH WIZARDS, BAGPIPE SAVANTS, BROKEN HEARTS, TAP DANCERS, POLE DANCERS, MIND MELDERS, RACE CAR DRIVERS, AND AGNOSTIC SAINTS!\nDo you have new solo/duo/small group material to present? Join us for Donau115's regular open stage series, Two-Song Tuesday.\nSign-up: 19:30\nSet 1: 20:00\nSet 2: 21:15\nSet 3: 22:15\n\"The Same Procedure as Every Week, James.\"\n- The random-order setlists appear at 19:45 at http://donau115.de\n- First come, first booked, randomly-assigned slot, 15 slots per night + an overflow maybe list that we rarely get to.\n- The bar staff tell you how to sign up, starting at 7.30pm. It is usually a link to an online sign-up form.\n- Your set may include TWO SONGS or last TEN MINUTES, WHICHEVER IS SHORTER (e.g. two seven-minute songs = NO, three three-minute songs = NO).\n- NO SOUNDCHECKS. Be ready. Slip on, blow minds, slip off. Setup is 90 seconds.\n- Sets are no longer than 10 minutes. THERE IS A STOPWATCH TO ENSURE THIS. If your set goes beyond 10 minutes, the stopwatch goes off in the middle of your song. (The alarm sound is in the key of C#, FYI, so modulate to that key for a smooth overtime ending.)\n- For the love of God, DO NOT PLAY THE SAME SONG OVER AND OVER EVERY WEEK. THIS IS BORING. TRY NEW THINGS. WE ADORE YOU. TAKE RISKS! ❤ ❤ ❤\n- Out of respect for our neighbours:\n--- you may NOT use loud percussion or send loud bass-heavy signals into the PA.\n--- you may NOT bring your own amp\n--- you are welcome to use the following itwms from our backline: piano, two generic vocal microphones, and a guitar cable directly into our PA.\n--- DON'T COUNT ON US HAVING ANYTHING OTHER THAN THE FEW THINGS LISTED ABOVE. COME PREPARED.\nFurther questions?\ninfo@donau115.de",
-    "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
-    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
-  },
-  {
-    "venue": "Schokoladen",
-    "venue_slug": "schokoladen",
-    "venue_tag": "live",
-    "date": "2026-09-09",
-    "time": "20:00",
-    "title": "Seraina Telli (glamrock, ch)",
-    "description": null,
-    "url": "https://vvk.link/47siy34",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
-  },
-  {
-    "venue": "A-trane",
-    "venue_slug": "atrane",
-    "venue_tag": "jazz",
-    "date": "2026-09-09",
-    "time": "20:30",
-    "title": "A-TRANE PRÄSENTIERT DAY2: CHRIS BENNETT «ONCE UPON A TIME» SPECIAL GUEST: RICK ROSS FEAT: ERIC UNSWORTH-HEINRICH KÖBBERLING",
-    "description": null,
-    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day2chris-bennettonce-upon-a-timespecial-guest-rick-rossfeat-eric-unsworth-heinrich-koebberling/",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2026-09-09",
-    "time": "21:00",
-    "title": "Robins Nest - Jamsession",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz-h64ej-9lfnk-4dk2t",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Donau115",
-    "venue_slug": "donau115",
-    "venue_tag": "bar",
-    "date": "2026-09-09",
-    "time": null,
-    "title": "Ignore The Machine (hanno leichtmann / nils ostendorf)",
-    "description": "A new duo from Berlin. By and featuring Hanno Leichtmann and Nils Ostendorf. Both are seasoned musicians with eventful careers who operate within very different artistic spheres.\n\nOne of them, Hanno Leichtmann, is a veteran—and remains to this day a pioneer—of the electronic music scene that has developed in Germany’s capital since the years following the fall of the Berlin Wall, thanks to projects such as Static, the Trio Groupshow, and countless collaborations.\n\nThe other, Nils Ostendorf, plays a trumpet whose capabilities are expanded through the use of various devices. He comes more from the world of contemporary jazz and has been a sought-after musician and composer on theater stages for years.\n\nHanno Leichtmann and Nils Ostendorf both use—at different times of the day, in rapid succession—a recording studio in the Wedding district filled with hand-picked instruments and equipment.\n\nWhen the two met at the same time in that studio in May 2026, the plan was actually just to record a series of tracks for a release by Chromacolor, another solo project by Hanno Leichtmann.\n\nIt all went faster than planned. In the end, they still had some studio time together. The result was a completely unplanned, 60-minute-long improvisation. All recorded in real time.  The six tracks featured here were created through precise and decisive edits to the improvised and recorded material. Without any overdubs added afterward.  The result is music that is open, exploratory, and not bound exclusively to any one genre. It has no qualms about engaging with the world of tonality and musical figuration. The boundaries and overlaps between ambient and jazz, free improvisation and musique concrète are blurred and constantly renegotiated. \n\nAll the semantics and moods found here are, in principle, unstable. Every state reached is transitory. One thing leads to another. We perceive and imagine spaces of possibility that are becoming increasingly rare in the material world.  Ignore The Machine’s debut is the first release on Hanno Leichtmann’s new label, Semen Contra. It is available exclusively as a limited-edition CD. Each release includes an art print from the label head’s extensive image library.",
-    "url": "https://www.facebook.com/hanno.leichtmann",
-    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785273968/hgzsaomrhhj3hpiinmma.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
-  },
-  {
-    "venue": "Gretchen",
-    "venue_slug": "gretchen",
-    "venue_tag": "electronic",
-    "date": "2026-09-10",
-    "time": "19:30",
-    "title": "G SESSIONS - 360 ° (Live) Show ft. MOSES YOOFEE TRIO, ISHA & SEDRIC PERRY",
-    "description": null,
-    "url": "https://www.gretchen-club.de/detail.php?id=3582",
-    "image_url": "https://www.gretchen-club.de/bilder_upload/6a85b29bbb5c4_260910_G Sessions_1080X1080_T4G.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
-  },
-  {
-    "venue": "Schokoladen",
-    "venue_slug": "schokoladen",
-    "venue_tag": "live",
-    "date": "2026-09-10",
-    "time": "20:00",
-    "title": "Designer (garage / r'n'r / punk, us) + Thee Irma & Lousie (garage-punk, ch)",
-    "description": null,
-    "url": "https://vvk.link/4iplbo0",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
-  },
-  {
-    "venue": "Sowieso",
-    "venue_slug": "sowieso",
-    "venue_tag": "jazz",
-    "date": "2026-09-10",
-    "time": "20:30",
-    "title": "Vergara &amp; Carrasco",
-    "description": null,
-    "url": "https://www.sowiesoberlin.com/",
-    "image_url": null,
-    "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
-  },
-  {
-    "venue": "A-trane",
-    "venue_slug": "atrane",
-    "venue_tag": "jazz",
-    "date": "2026-09-10",
-    "time": "20:30",
-    "title": "A-TRANE PRESENTS: Big Berry Quartet Album Release Show FEAT: Feat: Tal Yadin-Omri Abramov-Francesco Beccaro-Marc Michel",
-    "description": null,
-    "url": "https://a-trane.de/Events-Directory/a-trane-presentsbig-berry-quartetalbum-release-showfeat-feat-tal-yadin-omri-abramov-francesco-beccaro-marc-michel/",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2026-09-10",
-    "time": "21:00",
-    "title": "Raumschiff JAZZ",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Paloma Bar",
-    "venue_slug": "paloma",
-    "venue_tag": "electronic",
-    "date": "2026-09-10",
-    "time": "22:00",
-    "title": "AUSLäNDERBEHöRDE",
-    "description": null,
-    "url": "https://palomabar.de/programm.php",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
-  },
-  {
-    "venue": "Donau115",
-    "venue_slug": "donau115",
-    "venue_tag": "bar",
-    "date": "2026-09-10",
-    "time": null,
-    "title": "Thursday Jazz Jam",
-    "description": "FEAT. SWINGING LINEUPS EVERY WEEK\ndoors: 19:30 / opening set: 20:00 / jam: 21:00",
-    "url": "https://www.facebook.com/events/904352819000250",
-    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
-  },
-  {
-    "venue": "Schokoladen",
-    "venue_slug": "schokoladen",
-    "venue_tag": "live",
-    "date": "2026-09-11",
-    "time": "19:00",
-    "title": "Wood In Di Fire (rocksteady, reggae, jamaican jazz)",
-    "description": null,
-    "url": "https://vvk.link/4ki6usw",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
-  },
-  {
-    "venue": "Huxley Neue Welt",
-    "venue_slug": "huxley",
-    "venue_tag": "live",
-    "date": "2026-09-11",
-    "time": "20:00",
-    "title": "Marlo Grosshardt",
-    "description": null,
-    "url": "https://huxleysneuewelt.de/event/2026-09-11-marlo-grosshardt",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
-  },
-  {
-    "venue": "Sowieso",
-    "venue_slug": "sowieso",
-    "venue_tag": "jazz",
-    "date": "2026-09-11",
-    "time": "20:30",
-    "title": "Downes–Walsdorff–Westergaard–Steidle",
-    "description": "Kit Downes (piano), Henrik Walsdorff (alto sax), Jonas Westergaard (double bass) & Oli Steidle (drums)",
-    "url": "https://www.sowiesoberlin.com/",
-    "image_url": null,
-    "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
-  },
-  {
-    "venue": "A-trane",
-    "venue_slug": "atrane",
-    "venue_tag": "jazz",
-    "date": "2026-09-11",
-    "time": "20:30",
-    "title": "A-TRANE PRÄSENTIERT DAY1: MIKE RUSSELL «FUNKY SOUL KITCHEN» FEAT: CHARLES SAMMONS-DICARLO-RUDY REDL",
-    "description": null,
-    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day1mike-russellfunky-soul-kitchenfeat-charles-sammons-dicarlo-rudy-redl-2/",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2026-09-11",
-    "time": "21:00",
-    "title": "Maxim‘s Retrospective",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Gretchen",
-    "venue_slug": "gretchen",
-    "venue_tag": "electronic",
-    "date": "2026-09-11",
-    "time": "22:00",
-    "title": "TESTOSTERONE",
-    "description": null,
-    "url": "https://www.gretchen-club.de/detail.php?id=3467",
-    "image_url": "https://www.gretchen-club.de/bilder_upload/69ce376f96699_260911_testosterone.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
-  },
-  {
-    "venue": "Paloma Bar",
-    "venue_slug": "paloma",
-    "venue_tag": "electronic",
-    "date": "2026-09-11",
-    "time": "23:00",
-    "title": "SELECTORS CLUB",
-    "description": null,
-    "url": "https://palomabar.de/programm.php",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
-  },
-  {
-    "venue": "ZigZag",
-    "venue_slug": "zigzag",
-    "venue_tag": "jazz",
     "date": "2026-09-11",
     "time": null,
     "title": "Pablo Held Trio & Emilio Modeste - 20 Jahre Pablo Held Trio",
@@ -400,111 +10,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/pablohledtrio-gdx6x",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
-  },
-  {
-    "venue": "Donau115",
-    "venue_slug": "donau115",
-    "venue_tag": "bar",
-    "date": "2026-09-11",
-    "time": null,
-    "title": "Stav Goldberg Trio + Guest",
-    "description": "Stav Goldberg is a Berlin-based pianist and composer whose work has taken him to festivals and concert halls across Europe and the United States. His music moves fluidly between jazz, classical music, and free improvisation, with real-time composition at the heart of his artistic practice.\n\nTogether with Thiago Duarte (bass) and Peter Somos (drums), the trio explores original compositions alongside freely improvised music, moving between intimacy, rhythmic drive, and spacious textures. Special guest Roni Eytan on harmonica (played with Danilo Perez, Brian Blade).",
-    "url": "https://donau115.de/",
-    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1782138823/emheclabnwjdcsfgqrt0.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
-  },
-  {
-    "venue": "Huxley Neue Welt",
-    "venue_slug": "huxley",
-    "venue_tag": "live",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "title": "Black Stone Cherry",
-    "description": null,
-    "url": "https://huxleysneuewelt.de/event/2026-09-12-black-stone-cherry",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
-  },
-  {
-    "venue": "Schokoladen",
-    "venue_slug": "schokoladen",
-    "venue_tag": "live",
-    "date": "2026-09-12",
-    "time": "20:00",
-    "title": "MINOH (disco-punk, aachen) + Royalty (glam-punk, bln)",
-    "description": null,
-    "url": "https://vvk.link/4ir51u8",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
-  },
-  {
-    "venue": "Sowieso",
-    "venue_slug": "sowieso",
-    "venue_tag": "jazz",
-    "date": "2026-09-12",
-    "time": "20:30",
-    "title": "Zeynep Toraman",
-    "description": "Ro Lundberg (double bass, voice), Chris Jonas (soprano sax), Bex Burch (percussion), Ryan Packard (percussion) & Claire Dickson (voice, electronics)",
-    "url": "https://www.sowiesoberlin.com/",
-    "image_url": null,
-    "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
-  },
-  {
-    "venue": "A-trane",
-    "venue_slug": "atrane",
-    "venue_tag": "jazz",
-    "date": "2026-09-12",
-    "time": "20:30",
-    "title": "A-TRANE PRÄSENTIERT DAY2: MIKE RUSSELL «FUNKY SOUL KITCHEN» FEAT: CHARLES SAMMONS-DICARLO-RUDY REDL",
-    "description": null,
-    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day2mike-russellfunky-soul-kitchenfeat-charles-sammons-dicarlo-rudy-redl-2/",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2026-09-12",
-    "time": "21:00",
-    "title": "Rolf Zielke – Trio feat. Mathilde Vendramin – voc / cello",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Paloma Bar",
-    "venue_slug": "paloma",
-    "venue_tag": "electronic",
-    "date": "2026-09-12",
-    "time": "22:00",
-    "title": "BASS RESISTANCE",
-    "description": null,
-    "url": "https://palomabar.de/programm.php",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
-  },
-  {
-    "venue": "Gretchen",
-    "venue_slug": "gretchen",
-    "venue_tag": "electronic",
-    "date": "2026-09-12",
-    "time": "23:59",
-    "title": "BALKANBEATS - Robert Soko DJ-Set",
-    "description": null,
-    "url": "https://www.gretchen-club.de/detail.php?id=3511",
-    "image_url": "https://www.gretchen-club.de/bilder_upload/6a042a78c9285_260912_balkanbeats_t4g.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "ZigZag",
@@ -517,20 +23,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/mileycyrus-9enje",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
-  },
-  {
-    "venue": "Donau115",
-    "venue_slug": "donau115",
-    "venue_tag": "bar",
-    "date": "2026-09-12",
-    "time": null,
-    "title": "ELEVEN onzelf & friends (EP release concert)",
-    "description": "“ELEVEN onzelf is jazz that blends naturally with other genres. \nSure, it's jazz, but there's soul in it. And funk, lots of funk.”\n\nThe Berlin based trio started out in 2020 as an acoustic song project to develop an electric, crisp sound, which continues to define them today. Look forward to expressive and original music characterized by unique songwriting, complex sounds, and energetic grooves.  \nOn this special night, the band will celebrate the release of their EP „Listen to the Experts“, inviting several great players and friends from the Berlin jazz scene.",
-    "url": "https://www.facebook.com/onzelf/",
-    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785232511/bxktcubo3eymvmh4rgmz.jpg",
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -543,7 +36,7 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
   },
   {
     "venue": "B-Flat",
@@ -556,7 +49,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -569,7 +62,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/juh2-7m9a7",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -582,7 +75,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1786390182/tivgag5fmwan2qyyiznp.webp",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Schokoladen",
@@ -595,7 +88,7 @@
     "url": "https://vvk.link/4cfgw40",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "A-trane",
@@ -603,12 +96,12 @@
     "venue_tag": "jazz",
     "date": "2026-09-14",
     "time": "20:30",
-    "title": "A-TRANE PRÄSENTIERT: ANDREAS SCHMIDT & FRIENDS HEUTE MIT:",
+    "title": "A-TRANE PRÄSENTIERT: ANDREAS SCHMIDT & FRIENDS HEUTE MIT: ROLAND SCHNEIDER-JONAS WESTERGAARD",
     "description": null,
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-163/",
     "image_url": null,
     "price": "Free",
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "ZigZag",
@@ -621,7 +114,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/rotemsivantrio-lwkb9",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "A-trane",
@@ -634,7 +127,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day1ernst-biers-little-shop-of-jazzwith-yuriy-seredin-lars-guehlcke-kevin-burrellfeatchristoph-titz/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -647,7 +140,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e-ynwrp",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -660,7 +153,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/jazzsabbath-asgrm",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -673,7 +166,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Schokoladen",
@@ -686,7 +179,7 @@
     "url": "https://vvk.link/4fjp3n4",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.945307+00:00"
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "A-trane",
@@ -699,7 +192,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day2ernst-biers-little-shop-of-jazzwith-yuriy-seredin-lars-guehlcke-kevin-burrellfeatchristoph-titz/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -712,7 +205,20 @@
     "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz-h64ej-9lfnk-4dk2t-gl3w7",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-09-16",
+    "time": null,
+    "title": "Dvora Davis  - Bond, Bassey & Jazz",
+    "description": "(Soul, Jazz)Dvora Davisbegeistert mit der Power vonShirley Bassey,den Songs ausJames Bondund jeder Menge feinstem Vocal Jazz!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/dvoradavisbond",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -725,7 +231,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1786006946/bmsjyxuuokqip0kteoqg.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -738,7 +244,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-09-17-fear-factory",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -751,7 +257,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3342",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69304be004964_260917_Witchz_Trinity.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -764,7 +270,20 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
+  },
+  {
+    "venue": "Schokoladen",
+    "venue_slug": "schokoladen",
+    "venue_tag": "live",
+    "date": "2026-09-17",
+    "time": "20:00",
+    "title": "1000 Rabbits (art-pop, uk) + Lande Hekt (indie-pop/songwriter, uk)",
+    "description": null,
+    "url": "https://vvk.link/4dxerio",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "A-trane",
@@ -777,7 +296,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentierthila-kulik-trioa-journey-swing-soul-original-musicfeat-thiago-duarte-marc-michel/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -790,7 +309,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e-ynwrp-p5lj5",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -798,12 +317,12 @@
     "venue_tag": "jazz",
     "date": "2026-09-17",
     "time": null,
-    "title": "Les Colorés",
+    "title": "Les Colorés feat. Rachelle Jeanty",
     "description": "(Afro-Caribbean Jazz)Les Coloréspräsentieren die lebendige Musik Guadeloupes und Martiniques auf einzigartige und ansteckende Art und Weise; unterstützt von der fantastischenRachelle Jeanty!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/lescoloeresss",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -816,7 +335,20 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
+  },
+  {
+    "venue": "Schokoladen",
+    "venue_slug": "schokoladen",
+    "venue_tag": "live",
+    "date": "2026-09-18",
+    "time": "19:00",
+    "title": "Tiny Doris (garage pop punk)  & Splizz (wave post punk)",
+    "description": null,
+    "url": "https://vvk.link/4l295w0",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "Gretchen",
@@ -829,7 +361,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3472",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69d6444846cf9_260918_OsGarotin_bossa fm.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -842,7 +374,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-09-18-ella-mai",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Sowieso",
@@ -855,7 +387,7 @@
     "url": "https://www.sowiesoberlin.com/",
     "image_url": null,
     "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
   },
   {
     "venue": "A-trane",
@@ -868,7 +400,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertdavid-haynes-goes-instrumentalfeat-paul-andrews-max-bahr-joshua-benny-jud/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -881,7 +413,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e-ynwrp-p5lj5-n3bks",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -894,7 +426,7 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
   },
   {
     "venue": "Gretchen",
@@ -907,7 +439,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3578",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a7ede4ab4234_260918_Polenta.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -920,7 +452,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/jmoodquarrt",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -933,7 +465,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785229234/pr5vwfiziqxhpuylldwt.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -946,7 +478,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3522",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a155c98a37b4_260919__ Dov Liana_Credit_Brando Pacitt_T4G.JPG",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -959,7 +491,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-09-19-tjark",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Schokoladen",
+    "venue_slug": "schokoladen",
+    "venue_tag": "live",
+    "date": "2026-09-19",
+    "time": "20:00",
+    "title": "Lothario (garage/punk, aus) + Magazino (egg-punk/garage, bln)",
+    "description": null,
+    "url": "https://vvk.link/4hkv9w0",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "Sowieso",
@@ -972,7 +517,7 @@
     "url": "https://www.sowiesoberlin.com/",
     "image_url": null,
     "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
   },
   {
     "venue": "A-trane",
@@ -985,7 +530,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-presents-day1will-jacobs-the-unitwith-christian-keymer-arne-imig-brian-d-saulsfeat-charlotte-colace/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -998,7 +543,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e-ynwrp-p5lj5-n3bks-hzpls",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -1011,7 +556,7 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1024,7 +569,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3553",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a464a5d0b8ca_260919_Recycle-LSB_DRS_Space Age_Story_1080x1920.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1037,7 +582,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/legsymegsy",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1050,7 +595,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785150815/q0fzisikwcftx8u25atl.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -1063,7 +608,20 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
+  },
+  {
+    "venue": "Schokoladen",
+    "venue_slug": "schokoladen",
+    "venue_tag": "live",
+    "date": "2026-09-20",
+    "time": "18:15",
+    "title": "BELAKO (Post-Punk/New-Wave, Basque Country) + Matrone (RnR-Metal-Punk, Hamburg)",
+    "description": null,
+    "url": "https://vvk.link/4lhm5ao",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1076,7 +634,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-09-20-brigitte-calls-me-baby",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1089,7 +647,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e-ynwrp-p5lj5-n3bks-tlc8e",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "Donau115",
@@ -1102,7 +660,7 @@
     "url": "https://www.facebook.com/nataliacrrr/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785962197/qvxh9ext1kbe8ht1dmdw.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Donau115",
@@ -1115,7 +673,7 @@
     "url": "https://www.facebook.com/soyemetres",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1787638860/z5h0miybaim4lbxld4gk.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1128,7 +686,20 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3443",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69b00afba250d_260921_donny Benet_Timothy Harland.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "Schokoladen",
+    "venue_slug": "schokoladen",
+    "venue_tag": "live",
+    "date": "2026-09-21",
+    "time": "19:00",
+    "title": "Kelly McMichael (songwriter/can) + Cevil (synthie/dk)",
+    "description": null,
+    "url": "https://vvk.link/4jxcomo",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "A-trane",
@@ -1141,7 +712,20 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-164/",
     "image_url": null,
     "price": "Free",
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "Schokoladen",
+    "venue_slug": "schokoladen",
+    "venue_tag": "live",
+    "date": "2026-09-22",
+    "time": "20:00",
+    "title": "The Homesick (art-pop / exp-indie, nl) & GEO (post-punk / no-wave, nl)",
+    "description": null,
+    "url": "https://vvk.link/4hso1ww",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1154,7 +738,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e-ynwrp-p5lj5-n3bks-tlc8e-efly5",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1167,7 +751,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/bwnarwjfpss3x6p-c38nm-ntfs4-hcxx7-95y6w-l9w8t-wde6s",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1180,7 +764,20 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
+  },
+  {
+    "venue": "Schokoladen",
+    "venue_slug": "schokoladen",
+    "venue_tag": "live",
+    "date": "2026-09-23",
+    "time": "19:00",
+    "title": "Paula i Karol (folk indie pop, warsaw/hamburg)",
+    "description": null,
+    "url": "https://vvk.link/3y7dypc",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:32.293729+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1193,7 +790,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3514",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a072edb0c313_Maya Ongaku_by_Maya Ongaku (4).jpeg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Sowieso",
@@ -1206,7 +803,7 @@
     "url": "https://www.sowiesoberlin.com/",
     "image_url": null,
     "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
   },
   {
     "venue": "A-trane",
@@ -1219,7 +816,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertalex-ruess-friendsmeets-today-atrin-madani-klavs-hovmanfeat-sebastian-merk/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1232,7 +829,7 @@
     "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz-h64ej-9lfnk-4dk2t-gl3w7-hfdpp",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1245,7 +842,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/bkt-76966",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1258,7 +855,7 @@
     "url": "https://www.facebook.com/peter.gall.127/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785410611/uqobpmakytysum5vayo8.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1271,7 +868,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3545",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a3b87887f466_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Sowieso",
@@ -1284,7 +881,7 @@
     "url": "https://www.sowiesoberlin.com/",
     "image_url": null,
     "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
   },
   {
     "venue": "A-trane",
@@ -1297,7 +894,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertalex-ruess-friendsmeets-today-ariel-bart-klavs-hovmanfeat-sebastian-merk/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1310,7 +907,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5-8wf6e-ynwrp-p5lj5-n3bks-tlc8e-efly5-txyw6",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -1323,7 +920,7 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1336,7 +933,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/pegeliiddi",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1349,7 +946,20 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
+  },
+  {
+    "venue": "Huxley Neue Welt",
+    "venue_slug": "huxley",
+    "venue_tag": "live",
+    "date": "2026-09-25",
+    "time": "19:00",
+    "title": "Beartooth",
+    "description": null,
+    "url": "https://huxleysneuewelt.de/event/2026-09-25-beartooth",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1362,7 +972,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3571",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a59e97ec6fcc_260925_MediBro.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -1375,7 +985,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-presents-german-jazz-prize-winner-2026-day1fuasi-abdul-khaliqjourney-to-the-sourcefeat-rolf-zielke-maximilian-hughes-kenny-martin/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1388,7 +998,7 @@
     "url": "https://b-flat-berlin.de/events/5xxaa8thhyalb2r",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -1401,7 +1011,7 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1414,7 +1024,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/pbjam",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1427,7 +1037,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785767170/jgqjwrbh8wxtbyaob6oq.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1440,7 +1050,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3568",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a55f6ec01251_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1453,7 +1063,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-09-26-asp",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Sowieso",
@@ -1466,7 +1076,7 @@
     "url": "https://www.sowiesoberlin.com/",
     "image_url": null,
     "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
   },
   {
     "venue": "A-trane",
@@ -1479,7 +1089,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-presents-german-jazz-prize-winner-2026-day2fuasi-abdul-khaliqjourney-to-the-sourcefeat-rolf-zielke-maximilian-hughes-kenny-martin/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1492,7 +1102,7 @@
     "url": "https://b-flat-berlin.de/events/5xxaa8thhyalb2r-ccpst",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -1505,7 +1115,7 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1518,7 +1128,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3579",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a7af2d3e9415_afrohaus.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Donau115",
@@ -1531,7 +1141,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785067982/pfpmzuytk24dgcujgryf.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Paloma Bar",
@@ -1544,7 +1154,7 @@
     "url": "https://palomabar.de/programm.php",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.941805+00:00"
+    "scraped_at": "2026-09-13T12:25:32.285648+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1557,7 +1167,7 @@
     "url": "https://b-flat-berlin.de/events/5xxaa8thhyalb2r-ccpst-c4lzr",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1570,7 +1180,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/ninatribute-2e4c6",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1583,7 +1193,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1788519960/no8xegu3eencaix1jczl.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1596,7 +1206,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-09-28-the-amity-affliction",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1609,7 +1219,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3480",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a02f3511292e_260928_Sessa_Helena_Wolfenson.JPG",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -1622,7 +1232,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-165/",
     "image_url": null,
     "price": "Free",
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1635,7 +1245,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3338",
     "image_url": "https://www.gretchen-club.de/bilder_upload/68f78913d2221_260929_CCosmo_Landstreicher.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1648,7 +1258,7 @@
     "url": "https://b-flat-berlin.de/events/5xxaa8thhyalb2r-ccpst-c4lzr-jdm2x",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1661,7 +1271,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/bwnarwjfpss3x6p-c38nm-ntfs4-hcxx7-lma26",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1674,7 +1284,20 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
+  },
+  {
+    "venue": "Huxley Neue Welt",
+    "venue_slug": "huxley",
+    "venue_tag": "live",
+    "date": "2026-09-30",
+    "time": "19:00",
+    "title": "Tarja",
+    "description": null,
+    "url": "https://huxleysneuewelt.de/event/2026-09-30-tarja",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1687,20 +1310,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3518",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a0d80329f2c2_260930_MopMop_by_Aspet Manukyan_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
-  },
-  {
-    "venue": "Huxley Neue Welt",
-    "venue_slug": "huxley",
-    "venue_tag": "live",
-    "date": "2026-09-30",
-    "time": "20:00",
-    "title": "Tarja",
-    "description": null,
-    "url": "https://huxleysneuewelt.de/event/2026-09-30-tarja",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -1713,7 +1323,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertlammel-lauer-meinigwith-andreas-lammel-florian-lauer-andris-meinigfeat-antonia-hausmann/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1726,7 +1336,7 @@
     "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz-h64ej-9lfnk-4dk2t-gl3w7-hfdpp-p9k5f",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1739,7 +1349,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/yamaniseb26",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1752,7 +1362,7 @@
     "url": "https://www.facebook.com/000bleureine000 / https://www.facebook.com/DrunkAtYourWedding",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1786730111/qprek8cderdiavnbnvvt.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1765,7 +1375,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-01-sampagne",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Sowieso",
+    "venue_slug": "sowieso",
+    "venue_tag": "jazz",
+    "date": "2026-10-01",
+    "time": "20:30",
+    "title": "Krise",
+    "description": "Kristian Enkerud Lien (refretted guitar, lap steel), Emil Bø (trombone), Anna Ueland (retuned synth) & Bjørn André Syverinsen  (drums/percussion)",
+    "url": "https://www.sowiesoberlin.com/",
+    "image_url": null,
+    "price": "Donation",
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
   },
   {
     "venue": "A-trane",
@@ -1778,7 +1401,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertamir-breslermoog-triofeat-nitai-hershkovits-haggai-cohen-milo/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "B-Flat",
@@ -1791,7 +1414,7 @@
     "url": "https://b-flat-berlin.de/events/5xxaa8thhyalb2r-ccpst-c4lzr-jdm2x-xcp6k",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1804,7 +1427,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/rsgolivi",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1817,7 +1440,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1830,7 +1453,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3497",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1843,7 +1466,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3525",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a158e7727ad2_261002_BIJI.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1856,7 +1479,46 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-02-lake-street-dive",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Sowieso",
+    "venue_slug": "sowieso",
+    "venue_tag": "jazz",
+    "date": "2026-10-02",
+    "time": "20:30",
+    "title": "Henkel–Sandsjö–Warelis",
+    "description": null,
+    "url": "https://www.sowiesoberlin.com/",
+    "image_url": null,
+    "price": "Donation",
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2026-10-02",
+    "time": "23:59",
+    "title": "AFRO HAUS",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3595",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6a9fe0a490f70_afrohaus.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-02",
+    "time": null,
+    "title": "Ingrid Arthur & Band: Too hot to handle",
+    "description": "(Soul, Jazz)Ingrid Arthurbringt den ZigZag mit ihrer Stimme und Bühnenpräsenz wieder ins Schwitzen!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/ingridsepte",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1869,7 +1531,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3549",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a438fd923817_261003_RomareXWayne Snow_t4g Kopie.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1882,7 +1544,33 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-03-vanessa-mai",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Sowieso",
+    "venue_slug": "sowieso",
+    "venue_tag": "jazz",
+    "date": "2026-10-03",
+    "time": "20:30",
+    "title": "Corsano &amp; Alpert",
+    "description": "Chris Corsano (drums) & Kim Alpert (video) with guestMarta Warelis(piano)",
+    "url": "https://www.sowiesoberlin.com/",
+    "image_url": null,
+    "price": "Donation",
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-03",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT DAY2: TORSTEN GOODS ABSCHLUSSKONZERT SOUL DEEP TOUR 2026 FEAT: Jan Miserre-Thomas Stieger-Christian Lettner",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day2torsten-goodsabschlusskonzert-soul-deep-tour-2026feat-jan-miserre-thomas-stieger-christian-lettner/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1895,7 +1583,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3530",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a5de8f303b8b_261003_Hollywood Tramp.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1908,7 +1596,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/coso-kleins",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1921,7 +1609,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3555",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a9936c6daac9_261004_Silvan Strauss_So Sorry_1080x1350.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1934,7 +1622,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-04-gibran-alcocer",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-04",
+    "time": null,
+    "title": "Lady Day: A Tribute to Billie Holiday",
+    "description": "(Jazz)An diesem Abend setzen wir einer der größten Sängerinnen aller Zeiten ein musikalisches Denkmal:Billie Holiday!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/billiemillie",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -1947,7 +1648,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-05-courtney-barnett",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-05",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT: ANDREAS SCHMIDT & FRIENDS HEUTE MIT:",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-166/",
+    "image_url": null,
+    "price": "Free",
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -1960,7 +1674,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3468",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -1973,7 +1687,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertmahan-mirarabunspokenact-release-concertfeat-bernhard-schimpelsberger-haggai-cohen-milo/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "ZigZag",
@@ -1986,7 +1700,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/bwnarwjfpss3x6p-c38nm-ntfs4-hcxx7-95y6w-nh5lr",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -1999,7 +1713,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2012,7 +1726,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3510",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a032a22e7c0d_261007_Thee Sinseers _ Credit_ Alfonso JP Gomez_T4G.JPG",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2025,7 +1739,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-07-jack-savoretti",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-07",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT: «ENEMY» Berlin Edition Records Album Release Concert «FIEND» Feat: Kit Downes-Peter Eldh-James Maddren",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertenemyberlin-edition-records-album-release-concert-fiendfeat-kit-downes-peter-eldh-james-maddren/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Donau115",
@@ -2038,7 +1765,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1787158562/qrlbcrfjb19ckdqjiisw.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2051,7 +1778,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3450",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69bba3da5519c_260211_Matt Maeson_FKP Scorpio.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2064,7 +1791,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-08-jassin",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "A-trane",
@@ -2077,7 +1804,20 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertbokani-dyer-trioexpect-the-unexpectedfeat-timothy-norton-dominic-egli/",
     "image_url": null,
     "price": "Free",
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-08",
+    "time": null,
+    "title": "Mirna Bogdanovic - Glimmerence",
+    "description": "(Jazz)Drei Jahre nach ihrem mit demDeutschen Jazzpreis als „Album des Jahres“ausgezeichneten Album „Awake“ meldet sichMirna Bogdanovićmit ihrem dritten Studioalbum„Glimmerence“zurück!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/mirnaa",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2090,7 +1830,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2103,7 +1843,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-09-kaizers-orchestra",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2116,7 +1856,20 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3539",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a99385ba6fe7_Mr Scruff_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-09",
+    "time": "20:30",
+    "title": "A-TRANE PRESENTS DAY1: DAVID HAYNES AND FRIENDS «SOULFUL FALL» WITH SPECIAL GUESTS: ANIA SZARMACH & WORTHY DAVIS MEETS: WILL JACOBS FEAT: Jesse Milliner-CHARIS KARANTZAS-BEN JUD",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-presents-day1david-haynes-and-friendssoulful-fallwith-special-guests-ania-szarmach-worthy-davismeets-will-jacobsfeat-jesse-milliner-charis-karantzas-ben-jud/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2124,12 +1877,12 @@
     "venue_tag": "jazz",
     "date": "2026-10-09",
     "time": null,
-    "title": "Jason Moran Plays Duke Ellington",
+    "title": "ZIG ZAG HALL: Jason Moran Plays Duke Ellington",
     "description": "(Jazz)PianostarJason Moranwidmet sich dem Œuvre des großen JazzkomponistenDuke Ellington.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/jasmorduk",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2142,7 +1895,7 @@
     "url": "https://www.facebook.com/kooooooob",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1787657294/pe9jigpa1omcbhjudlj1.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2155,7 +1908,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3540",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a2be597e01bb_260317_JohuaIdehen_emerged.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2168,7 +1921,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-10-joel-brandenstein",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-10",
+    "time": "20:30",
+    "title": "A-TRANE PRESENTS DAY2: DAVID HAYNES AND FRIENDS «SOULFUL FALL» WITH SPECIAL GUESTS: ANIA SZARMACH & WORTHY DAVIS MEETS: WILL JACOBS FEAT: Jesse Milliner-CHARIS KARANTZAS-BEN JUD",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-presents-day2david-haynes-and-friendssoulful-fallwith-special-guests-ania-szarmach-worthy-davismeets-will-jacobsfeat-jesse-milliner-charis-karantzas-ben-jud/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2181,7 +1947,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3572",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a993979a709f_261010_30 Yrs Recycle_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2194,7 +1960,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/porterpraskinundbill",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2207,7 +1973,7 @@
     "url": "https://www.facebook.com/devingraymusic",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1787229184/nxsazt15asiviugvwsve.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "A-trane",
@@ -2220,7 +1986,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertchristian-frentzen-pulsesroundrobyn-records-album-release-concertwith-thomas-stieger-moritz-muellerfeaturing-special-guest-nir-felder/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2233,7 +1999,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3570",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a5dfa0b2c217_261011_Kassa  Wnbl.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2246,7 +2012,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/suitetrio",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2254,12 +2020,25 @@
     "venue_tag": "electronic",
     "date": "2026-10-12",
     "time": "19:00",
-    "title": "Streetlife International presents: BLACK MILK",
+    "title": "Streetlife International presents: BLACK MILK // CANCELLED",
     "description": null,
     "url": "https://www.gretchen-club.de/detail.php?id=3526",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a16aa1d4f4dd_261012_Black Milk_Streetlife.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-12",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT: ANDREAS SCHMIDT & FRIENDS HEUTE MIT:",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-167/",
+    "image_url": null,
+    "price": "Free",
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2272,7 +2051,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/atrin251054025-5kn9t-e2l5d-hbx4b-d9pg3",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2285,7 +2064,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3513",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a04498b7a8ab_261013_PJ Morton_soulgigs.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2298,7 +2077,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-13-laibach",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-13",
+    "time": null,
+    "title": "THE ZIG ZAG JAZZED UP JAM SESSION",
+    "description": "(Jazz / Funk / Groove / Swing)Durchgehend Live Musik genießen. Ein spannender Abend, an dem viele bekannte und weniger bekannte Musiker zusammen musizieren! Hippest Session in town!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/bwnarwjfpss3x6p-c38nm-ntfs4-hcxx7-95y6w-l9w8t-wde6s-5pf3y",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2311,7 +2103,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2324,7 +2116,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3454",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69c146dbc4ed9_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2337,7 +2129,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-14-jalen-ngonda",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-14",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT: TINO DERADO & SILHOUETTE FEAT: KEN NORRIS WITH ANDREAS LANG-ROLAND SCHNEIDER-AMOY RIBAS",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentierttino-derado-luminescencefeat-ken-norriswith-andreas-lang-roland-schneider-amoy-ribas/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Donau115",
@@ -2350,7 +2155,7 @@
     "url": "https://facebook.com/clairecrossbass",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1788449739/tlozpuvafzrrwi381b3m.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2363,7 +2168,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3550",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a45094f46bca_acid arab weekender.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -2376,7 +2181,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-presentsklaus-ignatzek-und-bandunderstatementfeat-florian-truebsbach-sven-faller-christian-schoenefeldt/",
     "image_url": null,
     "price": "Free",
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Donau115",
@@ -2389,7 +2194,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2402,7 +2207,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-16-civo",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2415,7 +2220,20 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3551",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a45096396b36_acid arab weekender.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-16",
+    "time": null,
+    "title": "Sari Schorr - Running Wild",
+    "description": "(Blues)Eine der großen Stimmen des modernen Blues Rock kommt mit neuer Musik nach Berlin:Sari Schorr!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/sarischoorr",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2428,7 +2246,20 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1781474104/kle9zsoiliiyqjfy5ixl.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-17",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT DAY1: Tony Hurdle Invites TC THE 3RD «United Nations Quartet» Feat: Lionel Haas-Axel Obert-Andrea Marcelli Special Guest: TC THE 3RD",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day1tony-hurdle-invites-tc-the-3rdunited-nations-quartetfeat-mark-milan-axel-obert-andrea-marcellispecial-guest-tc-the-3rd/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2441,7 +2272,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3556",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a4b66423bc5d_girlstown.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2449,12 +2280,12 @@
     "venue_tag": "jazz",
     "date": "2026-10-17",
     "time": null,
-    "title": "DENICE BROOKS &  THEE ARETHA FRANKLIN TRIBUTE BAND",
+    "title": "ZIG ZAG HALL: DENICE BROOKS &  THEE ARETHA FRANKLIN TRIBUTE BAND",
     "description": "(Soul / Funk / Jazz)Denice Brooks stand selbst mit Größen wieTina Turner, David Bowie und Roy Ayersauf der Bühne – nun widmet sie sich einer der bedeutendsten Stimmen der Musikgeschichte. Gemeinsam mit ihrer Band lässt sie die MusikAretha Franklinszwischen Soul, Gospel und Rhythm & Blues in all ihrer Kraft aufleben.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/denicesss-dwj2t-r87rx",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2467,7 +2298,20 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1787214726/k2bqjp3lvein8qsfuw3z.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-18",
+    "time": "18:00",
+    "title": "A-TRANE PRÄSENTIERT DAY2: Tony Hurdle Invites TC THE 3RD «United Nations Quartet» Feat: Lionel Haas-Axel Obert-Andrea Marcelli Special Guest: TC THE 3RD",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day2tony-hurdle-invites-tc-the-3rdunited-nations-quartetfeat-mark-milan-axel-obert-andrea-marcellispecial-guest-tc-the-3rd/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2480,7 +2324,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-18-paul-carrack",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2493,7 +2337,20 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3575",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a745d91bda42_261018_Takuya Nakumara_by-Ryan Chun_t4g.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-18",
+    "time": null,
+    "title": "Bill Stewart Trio feat. Larry Grenadier & Walter Smith III",
+    "description": "(Jazz)DasBill Stewart TriomitLarry GrenadierundWalter Smith IIIist ohne Zweifel eines der aufregendsten und angesagtesten Trios im modernen Jazz.",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/biste",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2506,7 +2363,7 @@
     "url": "https://www.facebook.com/dina.maccabee",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1787585420/fsxohojenpqa0d4by4cl.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Donau115",
@@ -2519,7 +2376,7 @@
     "url": "https://www.facebook.com/hansbilgermusic",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1788411156/kdtk2esorclut744ijk1.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2532,7 +2389,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3574",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a745a41bfd35_261019_Immortal.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -2545,7 +2402,20 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertcleo-und-bandfrom-broadway-to-blue-notesfeat-michael-valeanu-doug-weiss-bela-meinberg-rafa-mueller/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-20",
+    "time": null,
+    "title": "THE ZIG ZAG JAZZED UP JAM SESSION",
+    "description": "(Jazz / Funk / Groove / Swing)Durchgehend Live Musik genießen. Ein spannender Abend, an dem viele bekannte und weniger bekannte Musiker zusammen musizieren! Hippest Session in town!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/bwnarwjfpss3x6p-c38nm-ntfs4-hcxx7-lma26-3g79a",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2558,7 +2428,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2571,7 +2441,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-21-parra-for-cuva",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "A-trane",
@@ -2584,7 +2454,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertchristian-von-der-goltz-triomeets-ronja-rose-anderssonfeat-olaf-casimir-steven-moser/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Donau115",
@@ -2597,7 +2467,7 @@
     "url": "https://www.facebook.com/didapelled/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1788372407/pbcfbwcgtdnhzejdhszc.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2610,7 +2480,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3588",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a9569a671c45_g sessions plain.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -2623,7 +2493,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertrennernever-ending-storyfeat-moritz-renner-tabea-kind-valentin-renner/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2631,12 +2501,12 @@
     "venue_tag": "jazz",
     "date": "2026-10-22",
     "time": null,
-    "title": "Avishai Cohen Trio - ETERNAL CHILD",
+    "title": "ZIG ZAG HALL: Avishai Cohen Trio - ETERNAL CHILD",
     "description": "(Jazz)Tradition trifft auf eine neue Generation: In seinem„Eternal Child“ TrioverbindetAvishai Cohendie musikalische DNA vonBill Evans und Ahmad Jamalmit der Frische eines jungen Ensembles. Zusammen mitItay SimhovichundEviatar Slivnikentfaltet der Bassist einen ebenso feinsinnigen wie kraftvollen Jazzdialog, in dem jede Stimme ihren eigenen Raum erhält.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/actis",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2649,7 +2519,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2662,7 +2532,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3552",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a43906f8a69d_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2675,7 +2545,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-23-kaerbholz",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "A-trane",
@@ -2688,7 +2558,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day1keith-tynes-and-bandhere-is-to-lifefeat-carly-quiroz-rob-dietze-otto-block-daryl-taylor/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2701,7 +2571,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3585",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a8c1720f0b46_261023_What So Not_DJ Spinn_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2709,12 +2579,12 @@
     "venue_tag": "jazz",
     "date": "2026-10-23",
     "time": null,
-    "title": "Pablo Ziegler",
+    "title": "ZIG ZAG HALL: Pablo Ziegler",
     "description": "(Jazz / Tango)Die Legende des Tango NuevoPablo Zieglerbegeistert mit seinem Trio und der einzigartigen und 2018Grammy-prämiertenMixtur aus Tango & Jazz!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/pabloziegler",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2727,7 +2597,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3506",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a02f7a129789_261024_Maria Arnal_pojpoj.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -2740,7 +2610,33 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day2keith-tynes-and-bandhere-is-to-lifefeat-carly-quiroz-rob-dietze-otto-block-daryl-taylor/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-24",
+    "time": null,
+    "title": "Shortcuts - Courvoisier / Rothenberg / Waits",
+    "description": "(Jazz)Drei der profiliertesten New Yorker Jazzkünstler improvisieren vollkommen frei von allen Zwängen:Sylvie Courvoisier, Ned Rothenberg & Nasheet Waits!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/sylvieshortcut",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-25",
+    "time": "18:00",
+    "title": "A-TRANE PRÄSENTIERT: FOUR FRIENDS FEAT: Peter Fessler-Christoph Adams-Alfonso Garrido-Florian Menzel Beginn Winterzeit / Start Winter Time",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertfour-friendsfeat-peter-fessler-christoph-adams-alfonso-garrido-florian-menzelbeginn-winterzeit-start-winter-time/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2753,7 +2649,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3441",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69aeb242a9435_261025_Marcoca_by_Svenja Tietze_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2761,12 +2657,12 @@
     "venue_tag": "jazz",
     "date": "2026-10-25",
     "time": null,
-    "title": "Kurt Rosenwinkel - The Remedy feat. Seamus Blake, Aaron Goldberg, Joe Martin & Kendrick Scott",
+    "title": "ZIG ZAG HALL: Kurt Rosenwinkel - The Remedy feat. Seamus Blake, Aaron Goldberg, Joe Martin & Kendrick Scott",
     "description": "(Jazz)Eine Supergroup ohnegleichen:Kurt Rosenwinkelbringt sein legendäres AlbumThe Remedywieder live auf die Bühne!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/kurtremedy",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2779,7 +2675,7 @@
     "url": "https://www.facebook.com/little.north.music",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1779795195/quxixeuk39konqlx3cfw.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2792,7 +2688,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3339",
     "image_url": "https://www.gretchen-club.de/bilder_upload/68f8d6cc575eb_251113_Berwyn_TJ Sawyerr.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2805,7 +2701,33 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-26-kitty-daisy-lewis",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-26",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT: ANDREAS SCHMIDT & FRIENDS HEUTE MIT:",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-168/",
+    "image_url": null,
+    "price": "Free",
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-26",
+    "time": null,
+    "title": "Espirales",
+    "description": "(Latin, Jazz)Espiralesverschmelzen auf einzigartige Weise kubanische Rhythmik, Jazzimprovisation und kammermusikalische Dichte.",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/espiraels",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2818,7 +2740,33 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-27-son-lux",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-27",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT: ANDREAS SCHMIDT & FRIENDS HEUTE MIT:",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertandreas-schmidt-friendsheute-mit-169/",
+    "image_url": null,
+    "price": "Free",
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-27",
+    "time": null,
+    "title": "THE ZIG ZAG JAZZED UP JAM SESSION",
+    "description": "(Jazz / Funk / Groove / Swing)Durchgehend Live Musik genießen. Ein spannender Abend, an dem viele bekannte und weniger bekannte Musiker zusammen musizieren! Hippest Session in town!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/bwnarwjfpss3x6p-c38nm-ntfs4-hcxx7-95y6w-l9w8t-8mttw",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2831,7 +2779,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2844,7 +2792,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3455",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2857,7 +2805,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-28-warren-zeiders",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2870,7 +2818,20 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3586",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a8eadb85a46b_261028_Mocky_T4G_VA_by Alex Casillas.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-28",
+    "time": "20:30",
+    "title": "A-TRANE PRÄSENTIERT: Emil Wahlgren «Autumn in Berlin» Feat: Davide Incorvaia-Conrad Stephenson-David Guy",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertemil-wahlgrenautumn-in-berlinfeat-davide-incorvaia-conrad-stephenson-david-guy/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2878,12 +2839,25 @@
     "venue_tag": "jazz",
     "date": "2026-10-28",
     "time": null,
-    "title": "BILL FRISELL – 75TH BIRTHDAY CELEBRATION",
+    "title": "ZIG ZAG HALL: BILL FRISELL",
     "description": "(Jazz)Einer der größten Gitarristen der Jazzgeschichte feiert mit uns seinen 75. Geburtstag! Willkommen zurück in Berlin,Bill Frisell!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/billfri26",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
+  },
+  {
+    "venue": "Donau115",
+    "venue_slug": "donau115",
+    "venue_tag": "bar",
+    "date": "2026-10-28",
+    "time": null,
+    "title": "THE BEST THING SINCE SLICED BREAD feat. Rudi Mahall",
+    "description": "After several critically acclaimed tours across Europe with guest artists such as Fredrik Ljungkvist, Ketija Ringa and Gilbert Holmström the trio is now returning with yet another tour. This time around, Bread is trying some new sounds out as they progress deeper within the absolute timbre. Audiences can expect a powerful and engaging experience, as The Best Thing Since Sliced Bread presents new material in free form.\n\nExclusively featured is Rudi Mahall. World champion clarinetist.",
+    "url": "https://www.facebook.com/profile.php?id=61563646645959",
+    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1788773750/jycmkr36h1rscqfn5upg.png",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2896,7 +2870,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-29-kate-ryan",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2909,7 +2883,33 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-29-kelela",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-29",
+    "time": "20:00",
+    "title": "A-TRANE PRÄSENTIERT JAZZFEST BERLIN 2026 \"DREAM BABY DREAM\": VIER TAGE IM A-TRANE TAG1 HEUTE MIT: Elin Forkelid «Plays For Trane» Feat: David Stackenäs-Mattias Ståhl-Vilhelm Bromander-Jon Fält",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-jazzfest-berlin-2026vier-tage-im-a-tranetag1-heute-mit-elin-forkelid-plays-for-tranefeat-david-stackenaes-mattias-stahl-vilhelm-bromander-jon-faelt/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-10-29",
+    "time": null,
+    "title": "Django Reinhardt Orchestra feat. Joscho Stephan",
+    "description": "(Gypsy-Jazz)Gemeinsam mit demDjango Reinhardt Orchestrabegrüßen wir den Weltstar der Gypsy-Jazz-Guitar:Joscho Stephan!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/joschoo",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2922,7 +2922,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2935,7 +2935,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3449",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -2948,7 +2948,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-30-picture-this",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -2961,7 +2961,33 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3407",
     "image_url": "https://www.gretchen-club.de/bilder_upload/696e0e69c4d60_261030_BotticelliBaby_Credits_Martin Hinse.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-30",
+    "time": "20:00",
+    "title": "A-TRANE PRÄSENTIERT JAZZFEST BERLIN 2026 \"DREAM BABY DREAM\": VIER TAGE IM A-TRANE TAG2 HEUTE MIT: Sheen Trio «Transitory» Feat: Shabnam Parvaresh-Ula Martyn-Ellis-Philipp Buck",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-jazzfest-berlin-2026vier-tage-im-a-tranetag2-heute-mit-sheen-trio-transitoryfeat-shabnam-parvaresh-ula-martyn-ellis-philipp-buck/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2026-10-30",
+    "time": "23:59",
+    "title": "PURO BARRIO",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3596",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6aa248ff5f216_Puro Barrio plain.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -2969,12 +2995,12 @@
     "venue_tag": "jazz",
     "date": "2026-10-30",
     "time": null,
-    "title": "Kurt Elling & The Yellowjackets celebrate Weather Report",
+    "title": "ZIG ZAG HALL: Kurt Elling & The Yellowjackets celebrate Weather Report",
     "description": "(Vocal Jazz / Fusion)Ein Gipfeltreffen der besonderen Art: Vocal-JazzstarKurt Ellingund die Fusion-SupergroupYellowjacketsreinterpretieren das Werk der Jazzrock-GigantenWeather Report!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/kurtyellow",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -2987,7 +3013,7 @@
     "url": "https://donau115.de/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1788403602/dfaykl6gwgxxu4mhxurg.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3000,7 +3026,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-10-31-dartagnan",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3013,7 +3039,33 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3548",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a3e4a8c77779_261031_Mark Guiliana_Header_EventStart.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-10-31",
+    "time": "20:00",
+    "title": "A-TRANE PRÄSENTIERT JAZZFEST BERLIN 2026 \"DREAM BABY DREAM\": VIER TAGE IM A-TRANE TAG3 HEUTE Deutschlandpremiere MIT: ¡ Ya voy ! «Miraflores» Feat: Alejandra Charry-Sakina Abdou-Thibault Cellier-Moises Zamora Mezù",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-jazzfest-berlin-2026vier-tage-im-a-tranetag3-heute-deutschlandpremiere-mit-ya-voy-mirafloresfeat-alejandra-charry-sakina-abdou-thibault-cellier-m/",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2026-10-31",
+    "time": "23:59",
+    "title": "AFRO HAUS - Halloween Edition",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3597",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6aa2493c73a45_afrohaus.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3021,12 +3073,12 @@
     "venue_tag": "jazz",
     "date": "2026-10-31",
     "time": null,
-    "title": "Kennedy Administration",
+    "title": "ZIG ZAG HALL: Kennedy Administration",
     "description": "(Soul / RnB / Jazz)Kennedy Administrationbringt den Sound der New Yorker Clubszene nach Berlin: groovender Jazz trifft auf Soul, R&B, Hip-Hop und Pop. Angeführt von der charismatischen Sängerin Kennedy entfaltet die Band live jene ansteckende Energie, die sie von Manhattan bis zu internationalen Festivalbühnen getragen hat.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/kennedy-pzxmg",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3039,7 +3091,20 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3517",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a0c47d1195fb_261101_Songhoy Blues_No Credits.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "A-trane",
+    "venue_slug": "atrane",
+    "venue_tag": "jazz",
+    "date": "2026-11-01",
+    "time": "20:00",
+    "title": "A-TRANE PRÄSENTIERT JAZZFEST BERLIN 2026 \"DREAM BABY DREAM\": VIER TAGE IM A-TRANE TAG4 HEUTE Uraufführung / World Premiere MIT: Twin Talk «Delights» Feat: Dustin Laurenzi-Katie Ernst-Andrew Green",
+    "description": null,
+    "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-jazzfest-berlin-2026vier-tage-im-a-tranetag4-heute-urauffuehrung-world-premiere-mit-twin-talk-delightsfeat-dustin-laurenzi-katie-ernst-andrew-green/",
+    "image_url": null,
+    "price": "Free",
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3052,7 +3117,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3489",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69e5e73a0e955_261102_Bel Cobain_Credits_Casper_Griffin .jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3065,7 +3130,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3495",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69f1cff5f1187_261103_Etran de LAir_by_Larry Hirshowitz_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3078,7 +3143,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-03-zimmer90",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3086,12 +3151,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-03",
     "time": null,
-    "title": "Emmet Cohen - Miles & Coltrane at 100",
+    "title": "ZIG ZAG HALL: Emmet Cohen - Miles & Coltrane at 100",
     "description": "(Jazz)Starpianist und Fackelträger des JazzEmmet Cohenwidmet sich mit seinem Weltklasse-Quintett anlässlich der 100. Geburtstage der Musik von Miles Davis & John Coltrane.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/emmetmilesjohn",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -3104,7 +3169,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3117,7 +3182,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3554",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a44ce6947c18_261104_daoud_act.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3130,7 +3195,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-04-haute-freddy",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "ZigZag",
+    "venue_slug": "zigzag",
+    "venue_tag": "jazz",
+    "date": "2026-11-04",
+    "time": null,
+    "title": "Bobby Sparks",
+    "description": "(Soul, Funk, Jazz)Bobby Sparksist der Mann für die richtig funkigen Sounds: Endlich wieder live in Berlin!",
+    "url": "https://www.zigzag-jazzclub.berlin/program-mai/bobspa",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3143,7 +3221,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3543",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a3a48f2cb571_261105_Abase - Gretchen Square.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3156,7 +3234,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-05-anime-songs-in-concert",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3164,12 +3242,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-05",
     "time": null,
-    "title": "Hiromi Trio feat. James Genus & Simon Phillips",
+    "title": "ZIG ZAG HALL: Hiromi Trio feat. James Genus & Simon Phillips",
     "description": "(Jazz)VonChick Coreaentdeckt, vonAhmad Jamalgefördert und bei der Eröffnungsfeier der Olympischen Spiele in Tokio einem Millionenpublikum präsentiert: Hiromis Karriere ist außergewöhnlich. Im Trio mitSimon Phillips und James Genuswird daraus ein Live-Erlebnis zwischen explosivem Jazz, rasanten Grooves und grenzenloser Improvisation.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/hiromitrio",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -3182,7 +3260,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3195,7 +3273,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3527",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a181c70e8be3_261106_NORLYZ_by_lukas von loeper_t4g.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3208,7 +3286,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-06-clawfinger",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3216,12 +3294,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-06",
     "time": null,
-    "title": "DELFEAYO MARSALIS QUINTET feat. ERIC ALEXANDER",
+    "title": "ZIG ZAG HALL: DELFEAYO MARSALIS QUINTET feat. ERIC ALEXANDER",
     "description": "(Jazz)Delfeayo Marsalistrifft mit seinem Quintett auf den herausragenden TenorsaxophonistenEric Alexander. Zwei prägende Stimmen des amerikanischen Jazz vereinen New-Orleans-Tradition mit kraftvollem, modernem Straight-Ahead-Jazz.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/delfeayosdilemma",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3234,7 +3312,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3378",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6932e46658276_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3247,7 +3325,7 @@
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/joelovanocoltra100",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3255,12 +3333,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-07",
     "time": null,
-    "title": "Mica Millar Band",
+    "title": "ZIG ZAG HALL: Mica Millar Band",
     "description": "(Soul, R&B, Blues, Gospel, Jazz)Eine ausdrucksstarke Stimme, zeitloser Soul und kompromisslose künstlerische Unabhängigkeit:Mica Millarhat sich zu einer der bemerkenswertesten Soul-Künstlerinnen Großbritanniens entwickelt. Ausgezeichnet alsJazz FM Soul Act of the Yearund mit Auftritten nebenGladys Knight, Stevie WonderundGregory Porterverbindet sie musikalische Tiefe mit einer kraftvollen Bühnenpräsenz.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/jazzsabbath-asgrm-slfl6-9bgdk-rany7",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -3273,7 +3351,7 @@
     "url": "https://www.facebook.com/profile.php?id=100028103304791",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1779438810/kjtgnewjs5scujjcijrq.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3286,7 +3364,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3569",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a55ff21aaee6_261108_Noah X Petter_by-Florian Schneider.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3299,7 +3377,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-08-ckay",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "A-trane",
@@ -3312,7 +3390,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiertzohar-adamosmosisalbum-release-concertfeat-nory-ben-mirzach/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3320,12 +3398,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-08",
     "time": null,
-    "title": "Theo Croker",
+    "title": "ZIG ZAG HALL: Theo Croker",
     "description": "(Jazz)Der umtriebige und vielfach ausgezeichneteTheo Crokersteht mit seinem eklektischen Ansatz ohne Zweifel an der Spitze einer neuen Generation von Jazztrompetern!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/croker2",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3333,12 +3411,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-09",
     "time": null,
-    "title": "Nate Smith",
+    "title": "ZIG ZAG HALL: Nate Smith",
     "description": "(Jazz, Soul, Hip-Hop)Mit zwanzig spielteNate Smith bereits im legendären Blue Note Jazz Club in New York, heute zählt der zweifache GRAMMY-Gewinner zu den einflussreichsten Schlagzeugern seiner Generation. Sein Sound verbindet Jazz, Soul und Hip-Hop mit virtuoser Rhythmik und einem Groove, der ebenso raffiniert wie mitreißend ist.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/jazzsabbath-asgrm-slfl6-9bgdk-xzs3s-s4ymc-gns65",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3351,7 +3429,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3447",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69b173f1ab5e3_261110_True Loves_Credit_Janell Dedera_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Donau115",
@@ -3364,7 +3442,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3377,7 +3455,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3535",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a2804de59d1c_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -3390,7 +3468,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day1kat-eatongreat-britain-and-europe-tour-2026new-album-release-what-happens-nowfeat/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3403,7 +3481,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3452",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69c0ef604103c_261112_Nils Petter Molvaer Trio_by Roberto Cifarelli_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "A-trane",
@@ -3416,20 +3494,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-day1kat-eatongreat-britain-and-europe-tour-2026new-album-release-what-happens-nowfeat-2/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
-  },
-  {
-    "venue": "ZigZag",
-    "venue_slug": "zigzag",
-    "venue_tag": "jazz",
-    "date": "2026-11-12",
-    "time": null,
-    "title": "Richard Bona Quintet",
-    "description": "(Jazz, Fusion, Funk)Bass-SuperstarRichard Bonabeehrt uns nach ausverkauften Auftritten endlich mit seinem fulminanten Quintett!",
-    "url": "https://www.zigzag-jazzclub.berlin/program-mai/bonaquintet",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Donau115",
@@ -3442,7 +3507,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3450,12 +3515,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-13",
     "time": null,
-    "title": "Stella Cole",
+    "title": "ZIG ZAG HALL: Stella Cole",
     "description": "(Vocal Jazz)Sie erreicht im Internet mit dem Great American Songbook ein Millionenpublikum und tourt nun durch die renommiertesten Häuser der Welt:Stella Cole!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/stellcole",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3468,7 +3533,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3434",
     "image_url": "https://www.gretchen-club.de/bilder_upload/699c2bf42fcc9_261114_Liedfett_Gideon Rothmann.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3481,7 +3546,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-14-elgrandetoto",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3494,7 +3559,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3587",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a9000c92b96d_GRETCHEN_NOV_14_Post_Lineup_1080x1080.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Donau115",
@@ -3507,7 +3572,7 @@
     "url": "https://www.facebook.com/profile.php?id=100009563141475",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1780836800/idjmltaoqbuvioz8iis6.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3520,7 +3585,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3456",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3533,7 +3598,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-16-jessie-ware",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2026-11-16",
+    "time": null,
+    "title": "L'Oreille en friche presents: MARTHE X PILANI BUBU",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3592",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6a9eb5e50f31e_261116_Marthe x Pilani Bubu copy.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3546,7 +3624,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3482",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69e0cade39e8f_261117_SolomonFox_by-Demarquis McDaniels.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3559,7 +3637,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-17-kingfishr",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3567,12 +3645,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-17",
     "time": null,
-    "title": "Ambrose Akinmusire Quintet",
+    "title": "ZIG ZAG HALL: Ambrose Akinmusire Quintet",
     "description": "(Jazz)Genresprengend, wegweisend, innovativ:Ambrose Akinmusireist aus der Spitze der heutigen Jazzwelt wohl kaum mehr wegzudenken!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/ambrose5",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -3585,7 +3663,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3598,7 +3676,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3516",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a0ad8b3c7ffc_261118_SML_by-Charlie Weinmann_t4g.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3606,12 +3684,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-18",
     "time": null,
-    "title": "Jasmin Tabatabai",
+    "title": "ZIG ZAG HALL: Jasmin Tabatabai",
     "description": "(Jazz)Jasmin Tabatabaiund das David Klein Quartettpräsentieren mit„Jagd auf Rehe“ein vielseitiges Programm zwischen Jazz, Chanson und Pop. Von Schubert über Hildegard Knef und Nick Drake bis zu den Beatles treffen überraschende Neuinterpretationen auf eigene Kompositionen.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/jasmintababababa",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -3624,7 +3702,7 @@
     "url": "https://www.facebook.com/matmaz21/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1785511512/shrb3zf3oxckhdxkeyxg.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3637,7 +3715,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-19-eluveitie",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3645,12 +3723,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-19",
     "time": null,
-    "title": "Samara Joy",
+    "title": "ZIG ZAG HALL: Samara Joy",
     "description": "(Jazz)Nach inzwischensechs Grammy-Awards zähltSamara Joyzu den absoluten Superstars der Jazzwelt.",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/samarajoy26-3m4t7",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Donau115",
@@ -3663,7 +3741,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3676,7 +3754,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3502",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69fb018e1cedf_261120_Little Barrie_By Lee Vincent Grubb_T4G.JPG",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3689,7 +3767,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-20-the-hardkiss",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "ZigZag",
@@ -3697,12 +3775,12 @@
     "venue_tag": "jazz",
     "date": "2026-11-20",
     "time": null,
-    "title": "Jazzanova (live)",
+    "title": "ZIG ZAG HALL: Jazzanova (live)",
     "description": "(Jazz, Nu Jazz, Groove)„In Between“ gilt bis heute als wegweisende Verbindung von samplebasierten Beats und Live-Instrumenten und prägte den Sound desNu Jazzentscheidend mit. Mehr als zwanzig Jahre später überträgt dieJazzanova Live Banddiese Musik auf die Bühne!",
     "url": "https://www.zigzag-jazzclub.berlin/program-mai/jazzanovalive",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.288263+00:00"
+    "scraped_at": "2026-09-13T12:25:30.798251+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3715,7 +3793,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-21-100-kilo-herz-drei-meter-feldweg",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2026-11-21",
+    "time": "23:00",
+    "title": "THE BUG presents: PRESSURE",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3598",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6aa24ad3596ee_261121_Pressure.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3728,7 +3819,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-22-ronis-goliath",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3741,7 +3832,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3524",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a1817306a368_261123_Andreew_Header_EventStart.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3754,7 +3845,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3435",
     "image_url": "https://www.gretchen-club.de/bilder_upload/699c57cb9b072_261124_The Veils_Frances Carter.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3767,7 +3858,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-24-strangelove-the-depeche-mode-experience",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -3780,7 +3871,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3793,7 +3884,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3567",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a54c2970f74a_261125_Venjent_Chilli Tribe Rec.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3806,7 +3897,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-25-horsegiirl",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3819,7 +3910,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-26-artemas",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -3832,7 +3923,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3845,7 +3936,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-27-swiss-die-andern",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "A-trane",
@@ -3858,7 +3949,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-praesentiert-im-heimathafen-in-kooperation-mit-new-berlin-konzerte-eb-davis-the-superband-feat-kat-balounberlin-special-2/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Donau115",
@@ -3871,7 +3962,7 @@
     "url": "https://www.facebook.com/tryonband",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1781211030/sxcvyi2msaumtmixnxpv.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "A-trane",
@@ -3884,7 +3975,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-presentscarolina-bubbicovocaliagroundup-records-new-album-tourfeat-filippo-bubbico-gabriel-prado/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3897,7 +3988,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3547",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a3bb4fa734be_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3910,7 +4001,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-29-kodaline",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3923,7 +4014,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3453",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69c13d5aa4af2_261130_Okvsho_Dylan James Moore_t4g.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3936,7 +4027,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-11-30-thrown",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -3949,7 +4040,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3581",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a7ec93350bec_261201_Toshiki Soejima_Credits_Gaku Kato-Christian Petersen-Clausen_T4G.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Donau115",
@@ -3962,7 +4053,20 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
+  },
+  {
+    "venue": "Donau115",
+    "venue_slug": "donau115",
+    "venue_tag": "bar",
+    "date": "2026-12-02",
+    "time": null,
+    "title": "Florian Zimemr",
+    "description": "Florian Zimmer has been in a creative dialogue with artists in a variety of bands and duos in the course of the past three decades, including the long-running avant-hop trio Saroos alongside Christoph Brandner and Max Punktezahl, the industrial-punk project TVII SON, the dubwise duo Driftmachine featuring Andreas Gerth, and most recently his project Bella Wakame with prolific percussionist Andreas Haberl. Now the Berlin-based musician and composer is about to get even busier, this time as a solo artist. His improvised live sets draw on dub techniques and subtle grooves, mixing the sounds of his trusted modular synthesizers with a wide variety of samples to lysergic effect.\n\nZimmer straddles the line between abstract sound collaging and spontaneous live composition, utilising sounds from exotica or old educational records as well as field recordings to create ambiguities. Whether it is layered-and-looped polylogues between disembodied voices punctuated by melancholic melodica sounds, minimalist electronica, or intricate modular synthesizer rhythms that wouldn’t feel out of place on the dancefloor: Zimmer’s genre-transcending work with and around contrasts creates a sense of familiarity while evoking a feeling of uncanniness. The ever-changing interplay between sounds and rhythms, abstraction and concretion, semiotic serendipity and emotional warmth forms the dynamic and atmospheric core of his solo work.",
+    "url": "https://donau115.de/",
+    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1789289589/umju8ewo0wkw7pqpeffm.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -3975,7 +4079,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-03-voelkerball",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -3988,7 +4092,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4001,7 +4105,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3509",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a030e33c2a16_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4014,7 +4118,20 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-04-jimmy-kelly-the-streetorchestra",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Donau115",
+    "venue_slug": "donau115",
+    "venue_tag": "bar",
+    "date": "2026-12-04",
+    "time": null,
+    "title": "Igor Osypov \"Flying House\"",
+    "description": "Igor Osypov presents his recent and most open-hearted project. Flying House opens a musical world with the unmistakable voice of guitarist Igor Osypov. The band presents a highly individual and immediately recognisable sound, balancing lyrical delicacy with dynamic rhythmic energy. The quartet’s subtle interplay and expressive depth create a sonic identity that is both distinctive and deeply memorable, leaving a lasting impression on the listener.\n\nFlying House is a deeply personal upcoming album by guitarist Igor Osypov. In this music, Osypov dedicates each piece to the people and moments that shape his life—especially his family. The album focuses intentionally on the positive: cherishing the present, appreciating closeness, and finding warmth in the everyday.\nHaving spent much of his life as a refugee, escaping the reality of war, Osypov chose to center this project around a simple idea: living in the present. Flying House represents the feeling that home is not a fixed place but something that travels with the people you love. Wherever life takes you, home exists when those closest to you are near.\nAs a composer, Osypov returned to his most natural starting point: writing the music on his main instrument, the guitar. In this sense, the guitar becomes a metaphor for returning to one’s default setting, one’s musical home. While the guitar holds a central role in the sound of the album, the music leaves ample space for every member of the band to breathe, interact, and contribute their voice to the collective story.\nFlying House is ultimately a celebration of presence, family, and the quiet joy of sharing music—and life—with the people who make any place feel like home.",
+    "url": "https://www.facebook.com/iosypov",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4027,7 +4144,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3557",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a4b8c8cec397_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4040,7 +4157,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-05-itchy",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -4053,7 +4170,7 @@
     "url": "https://www.facebook.com/profile.php?id=100009563141475",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1780837351/pjm2aqbkclnszjya6gaa.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "A-trane",
@@ -4066,7 +4183,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-presents-sunday-concertmia-knop-jacobsenalbum-release-concert-closerfeat-jeppe-holst-raphael-jesus-braga/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4079,7 +4196,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-06-artemas",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4092,7 +4209,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3560",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4105,7 +4222,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-07-xwave",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "A-trane",
@@ -4118,7 +4235,7 @@
     "url": "https://a-trane.de/Events-Directory/a-trane-presentsnils-wogram-root-70feat-hayden-chisholm-matt-penman-jochen-rueckert/",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:16.302072+00:00"
+    "scraped_at": "2026-09-13T12:25:44.001201+00:00"
   },
   {
     "venue": "Donau115",
@@ -4131,7 +4248,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4144,7 +4261,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-09-mighty-oaks",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4157,7 +4274,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-10-murda",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -4170,7 +4287,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4183,7 +4300,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-11-kwam-e",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4196,7 +4313,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-12-laing",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4209,7 +4326,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3503",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69fc5558d4d00_260527_Sly5thAve_by David Myers_Koka_331x273.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4222,7 +4339,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-13-dayseeker",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4235,7 +4352,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3573",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a70a3bfac478_261215_Alexandre Ollier.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4248,7 +4365,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-15-charity-salsa-benefiz-konzert-conexion-plus-band-und-la-melodica-orquesta",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -4261,7 +4378,7 @@
     "url": "https://www.facebook.com/photo/?fbid=1629237932542727&set=gm.1532792951738317",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233284/vz0nltxbobcm6vshwa3a.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4274,7 +4391,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-16-azet",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -4287,7 +4404,7 @@
     "url": "https://www.facebook.com/events/904352819000250",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1778233985/z0kfnvxn860hvb8fpe3e.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4300,7 +4417,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3544",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a390a0706a27_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4313,7 +4430,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3584",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a85733bd2911_261218_deep medi.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4326,7 +4443,7 @@
     "url": "https://huxleysneuewelt.de/event/2026-12-19-orgis-weihnachtsshow",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Donau115",
@@ -4339,7 +4456,7 @@
     "url": "https://www.facebook.com/profile.php?id=100009563141475",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1780837701/xt60fmq5lkabobmtb3kb.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Donau115",
@@ -4352,7 +4469,7 @@
     "url": "https://www.facebook.com/LauraVeirs/",
     "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1783701524/mnmgh30fdmfkpjbnowca.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.981804+00:00"
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4365,7 +4482,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-11-u-d-o",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4378,7 +4495,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-18-anne-clark-band",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4391,7 +4508,20 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-19-anne-clark-band",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2027-01-22",
+    "time": "19:00",
+    "title": "Trinity presents: YAEL NAIM",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3594",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6a9fda938722a_vorlage website.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4404,7 +4534,20 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-24-amorphis",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Donau115",
+    "venue_slug": "donau115",
+    "venue_tag": "bar",
+    "date": "2027-01-24",
+    "time": null,
+    "title": "Thomas MacMillan",
+    "description": "Thomas MacMillan is a composer and guitarist hailing from the remote Pennines region of Northern England. Now based in Berlin, he composes music for solo guitar inspired by horror films, liminal spaces, and video game soundtracks—creating an atmospheric soundscape that feels both familiar and unsettling.\n\nOn January 24th, he will perform his compositions at Donau115 for the first time. His repertoire includes pieces from his EP Negative Space—a concept album exploring liminal spaces and uncanny architecture—as well as his more recent release, Nervous System, an EP centered on anxiety, with each track delving into a different facet of this fundamental human emotion. His music evokes vivid, cinematic imagery while showcasing the impressive sonic range of the nylon-string guitar.",
+    "url": "https://www.facebook.com/thomasmacmillanmusic",
+    "image_url": "https://res.cloudinary.com/dci7i3mni/image/upload/v1788883102/g9xzvbcifcr3ozjfwzae.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.748380+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4417,7 +4560,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-26-cascada",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4430,7 +4573,33 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-27-levin-liam",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2027-01-28",
+    "time": "19:30",
+    "title": "TOURING",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3591",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6a9ead7b5882b_270128_Touring_by-Constantin Mirbach_T4G.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "Huxley Neue Welt",
+    "venue_slug": "huxley",
+    "venue_tag": "live",
+    "date": "2027-01-28",
+    "time": "20:00",
+    "title": "ISAIAH RASHAD",
+    "description": null,
+    "url": "https://huxleysneuewelt.de/event/2027-01-28-isaiah-rashad",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4443,7 +4612,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-29-killerpilze",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4456,7 +4625,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3583",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4469,7 +4638,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-30-zate",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4482,7 +4651,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-01-31-get-well-soon",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4495,7 +4664,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-02-02-adela",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4508,7 +4677,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-02-07-basement",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4521,7 +4690,33 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3589",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a97da8843192_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "Gretchen",
+    "venue_slug": "gretchen",
+    "venue_tag": "electronic",
+    "date": "2027-02-19",
+    "time": "19:00",
+    "title": "Greyzone presents: LOS BITCHOS & FRIENDS",
+    "description": null,
+    "url": "https://www.gretchen-club.de/detail.php?id=3593",
+    "image_url": "https://www.gretchen-club.de/bilder_upload/6a9fc000c2360_270219_Los Bitchos_.jpg",
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
+  },
+  {
+    "venue": "Huxley Neue Welt",
+    "venue_slug": "huxley",
+    "venue_tag": "live",
+    "date": "2027-02-20",
+    "time": "20:00",
+    "title": "CAMERON WHITCOMB",
+    "description": null,
+    "url": "https://huxleysneuewelt.de/event/2027-02-20-cameron-whitcomb",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4534,7 +4729,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3580",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a7c2c144c3a9_270221_FlexFab_Manu Kann_T4G_Credits_SB.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4547,7 +4742,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-02-26-michelle-gurevich",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4560,7 +4755,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-02-27-trentemoller",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4573,7 +4768,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-02-emeli-sande",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4586,7 +4781,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3505",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a02de0ba7d35_270303_The Next Movenent_by Ren Mosele.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4599,7 +4794,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-03-madeline-juno",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4612,7 +4807,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-04-blanco-white",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4625,7 +4820,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3421",
     "image_url": "https://www.gretchen-club.de/bilder_upload/697b66753fae2_270306_PrezidentJonathan_Blumendeller.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4638,7 +4833,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-06-mr-hurley-und-die-pulveraffen",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4651,7 +4846,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-09-delta-goodrem",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4664,7 +4859,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-11-cult-of-luna",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4677,7 +4872,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3590",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4690,7 +4885,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-12-scorpion-gang",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4703,7 +4898,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3533",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a22becdb579e_270317_Syd Matters_1080x1350.png",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4716,7 +4911,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-17-paulwetz",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4729,7 +4924,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-19-kakkmaddafakka",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4742,7 +4937,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-20-eivor",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4755,7 +4950,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-03-31-jordan-rakei-2",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4768,7 +4963,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-03-razz",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4781,7 +4976,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-10-leony",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4794,7 +4989,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-11-buntspecht",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4807,7 +5002,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-12-monet192",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4820,7 +5015,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-14-monatik",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4833,7 +5028,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-15-raum27",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4846,7 +5041,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-22-cave",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4859,7 +5054,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3496",
     "image_url": "https://www.gretchen-club.de/bilder_upload/69f1f8c070e31_270424_Xabi_Jelly Hicke.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4872,7 +5067,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-24-waving-the-guns",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4885,7 +5080,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-04-25-remode",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Gretchen",
@@ -4898,7 +5093,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3546",
     "image_url": "https://www.gretchen-club.de/bilder_upload/6a3ba8a0aa609_vorlage website.jpg",
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4911,7 +5106,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-05-08-tom-hengst",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4924,7 +5119,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-05-12-rian",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4937,7 +5132,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-05-22-kc-rebell",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -4950,85 +5145,33 @@
     "url": "https://huxleysneuewelt.de/event/2027-05-23-milleniumkid",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2027-08-02",
-    "time": null,
-    "title": "Bastian Menz Project",
+    "venue": "Huxley Neue Welt",
+    "venue_slug": "huxley",
+    "venue_tag": "live",
+    "date": "2027-06-18",
+    "time": "19:30",
+    "title": "Crush 40",
     "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e",
+    "url": "https://huxleysneuewelt.de/event/2027-06-18-crush-40",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2027-08-04",
-    "time": null,
-    "title": "Still Waters ||:ECHO:||",
+    "venue": "Huxley Neue Welt",
+    "venue_slug": "huxley",
+    "venue_tag": "live",
+    "date": "2027-06-20",
+    "time": "20:00",
+    "title": "Mero",
     "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-petzs",
+    "url": "https://huxleysneuewelt.de/event/2027-06-20-mero",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2027-08-05",
-    "time": null,
-    "title": "Robins Nest - Jamsession",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2027-08-06",
-    "time": null,
-    "title": "“Orquesta de Antes” / Argentina",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-ztx2c",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2027-08-07",
-    "time": null,
-    "title": "Mauritius meets Columbia",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-ztx2c-kpts5",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "B-Flat",
-    "venue_slug": "bflat",
-    "venue_tag": "jazz",
-    "date": "2027-08-08",
-    "time": null,
-    "title": "Tempo Havanna",
-    "description": null,
-    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-ztx2c-kpts5-jb65d",
-    "image_url": null,
-    "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5041,7 +5184,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-ztx2c-kpts5-jb65d-k4ag5",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5054,7 +5197,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-ztx2c-kpts5-jb65d-k4ag5-g9wtd",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5067,7 +5210,7 @@
     "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5080,7 +5223,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-ztx2c-kpts5-jb65d-k4ag5-g9wtd-86796",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5093,7 +5236,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-338m3-5rsjr-6m3wz-hx5y4-ewx7f-l8jg5-3hgbt-7339d-h76fn-mh9w4-tmjl2-33mrm-ddmnt-3tne9-xh5tr-h8r9t-zft9e-ztx2c-kpts5-jb65d-k4ag5-g9wtd-73wa9",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5106,7 +5249,7 @@
     "url": "https://b-flat-berlin.de/events/6tbd2awweywly72",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5119,7 +5262,7 @@
     "url": "https://b-flat-berlin.de/events/6tbd2awweywly72-prf6w",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5132,7 +5275,7 @@
     "url": "https://b-flat-berlin.de/events/6tbd2awweywly72-prf6w-tssrr",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5145,7 +5288,7 @@
     "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5158,7 +5301,7 @@
     "url": "https://b-flat-berlin.de/events/6tbd2awweywly72-prf6w-tssrr-drahy",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5171,7 +5314,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5184,7 +5327,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5197,7 +5340,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5210,7 +5353,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5223,7 +5366,7 @@
     "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz-h64ej",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5236,7 +5379,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5249,7 +5392,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5262,7 +5405,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5275,7 +5418,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5288,7 +5431,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-bp2de",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5301,20 +5444,7 @@
     "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz-h64ej-9lfnk",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Sowieso",
-    "venue_slug": "sowieso",
-    "venue_tag": "jazz",
-    "date": "2027-09-03",
-    "time": "20:30",
-    "title": "Joey Gavin &amp; Band",
-    "description": "Joey Gavin (vocals, guitar), Quentin Tolimieri (piano), Mike Majkowski (bass) & Steve Heather (drums) |Little CircusLucian Gorski (drums), Anirudh Singh Chohan (guitars, bass) & Chris Lateano (synths and keyboards)",
-    "url": "https://www.sowiesoberlin.com/",
-    "image_url": null,
-    "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5327,20 +5457,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Sowieso",
-    "venue_slug": "sowieso",
-    "venue_tag": "jazz",
-    "date": "2027-09-04",
-    "time": "20:30",
-    "title": "mogul &amp; Parkins &nbsp;",
-    "description": null,
-    "url": "https://www.sowiesoberlin.com/",
-    "image_url": null,
-    "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5353,20 +5470,7 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
-  },
-  {
-    "venue": "Sowieso",
-    "venue_slug": "sowieso",
-    "venue_tag": "jazz",
-    "date": "2027-09-05",
-    "time": "20:30",
-    "title": "Allemano–Ng–Henkelhausen–Wankel &nbsp;",
-    "description": null,
-    "url": "https://www.sowiesoberlin.com/",
-    "image_url": null,
-    "price": "Donation",
-    "scraped_at": "2026-09-06T11:25:05.115219+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "B-Flat",
@@ -5379,7 +5483,124 @@
     "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:05.600225+00:00"
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
+  },
+  {
+    "venue": "B-Flat",
+    "venue_slug": "bflat",
+    "venue_tag": "jazz",
+    "date": "2027-09-06",
+    "time": null,
+    "title": "Jascha Briand Quartet",
+    "description": null,
+    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
+  },
+  {
+    "venue": "B-Flat",
+    "venue_slug": "bflat",
+    "venue_tag": "jazz",
+    "date": "2027-09-08",
+    "time": null,
+    "title": "“Roots and Things”",
+    "description": null,
+    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
+  },
+  {
+    "venue": "B-Flat",
+    "venue_slug": "bflat",
+    "venue_tag": "jazz",
+    "date": "2027-09-09",
+    "time": null,
+    "title": "Robins Nest - Jamsession",
+    "description": null,
+    "url": "https://b-flat-berlin.de/events/lswg3btcxjmsnlt-458yl-a36fa-dgnlm-dpjak-d94fw-l8ery-c4f4h-h437d-z8ap5-4m9xc-kkrtw-le9t8-2jpf2-sbs62-h6437-l2mxe-awdyg-bw5r8-k4gdx-ynbf2-9zswz-h64ej-9lfnk-4dk2t",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
+  },
+  {
+    "venue": "Sowieso",
+    "venue_slug": "sowieso",
+    "venue_tag": "jazz",
+    "date": "2027-09-10",
+    "time": "20:30",
+    "title": "Vergara &amp; Carrasco",
+    "description": null,
+    "url": "https://www.sowiesoberlin.com/",
+    "image_url": null,
+    "price": "Donation",
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
+  },
+  {
+    "venue": "B-Flat",
+    "venue_slug": "bflat",
+    "venue_tag": "jazz",
+    "date": "2027-09-10",
+    "time": null,
+    "title": "Raumschiff JAZZ",
+    "description": null,
+    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
+  },
+  {
+    "venue": "Sowieso",
+    "venue_slug": "sowieso",
+    "venue_tag": "jazz",
+    "date": "2027-09-11",
+    "time": "20:30",
+    "title": "Downes–Walsdorff–Westergaard–Steidle",
+    "description": "Kit Downes (piano), Henrik Walsdorff (alto sax), Jonas Westergaard (double bass) & Oli Steidle (drums)",
+    "url": "https://www.sowiesoberlin.com/",
+    "image_url": null,
+    "price": "Donation",
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
+  },
+  {
+    "venue": "B-Flat",
+    "venue_slug": "bflat",
+    "venue_tag": "jazz",
+    "date": "2027-09-11",
+    "time": null,
+    "title": "Maxim‘s Retrospective",
+    "description": null,
+    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
+  },
+  {
+    "venue": "Sowieso",
+    "venue_slug": "sowieso",
+    "venue_tag": "jazz",
+    "date": "2027-09-12",
+    "time": "20:30",
+    "title": "Zeynep Toraman",
+    "description": "Ro Lundberg (double bass, voice), Chris Jonas (soprano sax), Bex Burch (percussion), Ryan Packard (percussion) & Claire Dickson (voice, electronics)",
+    "url": "https://www.sowiesoberlin.com/",
+    "image_url": null,
+    "price": "Donation",
+    "scraped_at": "2026-09-13T12:25:30.834076+00:00"
+  },
+  {
+    "venue": "B-Flat",
+    "venue_slug": "bflat",
+    "venue_tag": "jazz",
+    "date": "2027-09-12",
+    "time": null,
+    "title": "Rolf Zielke – Trio feat. Mathilde Vendramin – voc / cello",
+    "description": null,
+    "url": "https://b-flat-berlin.de/events/mcg5sn3pdyxhzz9-wbt6h-kcd6x-r7daf-h2mgc-f6lxm-awap9-jgaxk-pb5ys-mx9tm-xycfc-w4nw7-42xb8-dhpjp-d8pw6-9pl72-69sdd-hbnme-xgfnw-lg94a-2brz8-bb6sk-gw5l6-s43b5",
+    "image_url": null,
+    "price": null,
+    "scraped_at": "2026-09-13T12:25:30.913792+00:00"
   },
   {
     "venue": "Gretchen",
@@ -5392,7 +5613,7 @@
     "url": "https://www.gretchen-club.de/detail.php?id=3494",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.187678+00:00"
+    "scraped_at": "2026-09-13T12:25:31.690349+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -5405,7 +5626,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-10-08-tom-twers",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -5418,7 +5639,7 @@
     "url": "https://huxleysneuewelt.de/event/2027-12-19-genetikk",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   },
   {
     "venue": "Huxley Neue Welt",
@@ -5431,6 +5652,6 @@
     "url": "https://huxleysneuewelt.de/event/2028-05-19-julian-sommer",
     "image_url": null,
     "price": null,
-    "scraped_at": "2026-09-06T11:25:06.158273+00:00"
+    "scraped_at": "2026-09-13T12:25:31.581034+00:00"
   }
 ]
